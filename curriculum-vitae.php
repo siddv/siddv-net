@@ -41,7 +41,7 @@
 					</div>
 					<div class="clear"></div>
 					<p>
-						I'm Sidd. I like creating both virtual and physical experiences, being versatile enough to tackle any part of a project, be it design, coding or hardware. Focusing on bringing all elements together to create a streamlined user experience.
+						I'm Sidd. I like creating both virtual and physical experiences, being versatile enough to tackle any part of a project, be it design, development or hardware prototyping. Focusing on bringing all elements together to create a streamlined user experience.
 					</p>
 				</div>
 				<div class="clear"></div>
@@ -53,28 +53,32 @@
 				<article class="inner_artile">
 					<h3>Skills</h3>
 					<p>
-						I love learning and challanging myself. I consider myself a pretty fast learner, and am pretty confident in picking up new languages and skills.
+						I love learning and challanging myself. I consider myself a pretty fast learner, and am pretty confident in picking up new languages and skills. You can see some of my side projects on <a href="https://github.com/siddv" target="_blank">my GitHub</a>.
 					</p>
 					<div id="webskills" class="half firstof">
 
 					<h4>Web Development</h4>
 					<div>
 
-							<ul>
-								<li>Semantic HTML: 5/Jade</li>
-								<li>Responsive CSS: 3/SASS/LESS</li>
-								<li>JavaScript: Angular/JQuery</li>
-								<li>Taskrunners: Gulp/Grunt</li>
-								<li>Testing: Protactor/Jasmine/Selenium</li>
-								<li>Version Control: Git/SVN</li>
-								<li>Continious Integration: Jenkins</li>
-								<li>Canvas</li>								
-								<li>Websockets</li>
-								<li>MQTT</li>
-								<li>Node: Express/Sails</li>
-								<li>Full LAMP stack</li>
-								<li>Phonegap: Ionic</li>
-							</ul>
+						<ul>
+							<li>Semantic HTML: 5/Jade</li>
+							<li>Responsive CSS: 3/SASS/LESS</li>
+							<li>JavaScript: Angular/D3/JQuery</li>
+							<li>Taskrunners: Gulp/Grunt</li>
+							<li>Testing: Protactor/Jasmine/Selenium</li>
+							<li>Version Control: Git/SVN</li>
+							<li>Continious Integration: Jenkins</li>
+							<li>Phonegap: Ionic</li>
+							<li>Canvas</li>
+							<li>Websockets</li>
+							<li>MQTT</li>
+							<li>Node: Express/Sails</li>
+							<li>Python</li>
+							<li>Apache</li>
+							<li>PHP</li>
+							<li>MySQL</li>
+							<li>Hosting: Heroku/Digital Ocean/AWS</li>
+						</ul>
 						
 					</div>
 					<!--<div class="third lastof">
@@ -140,10 +144,6 @@
 						<h4>Grand Prize<br />
 							<span>Hackference | September 2014</span></h4>
 					</article>
-					
-				</div>
-				<div class="half lastof">
-					
 					<article class="exp">
 						<h4>First Place<br />
 							<span>McDonalds Hackathon | November 2014</span></h4>
@@ -152,6 +152,11 @@
 						<h4>Braintree &amp; Sendgrid Sponsor Prizes<br />
 							<span>MLH: Hacknotts | November 2014</span></h4>
 					</article>
+					
+				</div>
+				<div class="half lastof">
+					
+
 					<article class="exp">
 						<h4>First Place<br />
 							<span>Resin.io Xmas IoT Hackathon | December 2014</span></h4>
@@ -159,6 +164,22 @@
 					<article class="exp">
 						<h4>Best Technical Hack<br />
 							<span>Dropbox Hackathon | January 2015</span></h4>
+					</article>
+					<article class="exp">
+						<h4>Third Place<br />
+							<span>PayPal BattleHack | April 2015</span></h4>
+					</article>
+					<article class="exp">
+						<h4>Second Place<br />
+							<span>Intel IoT Roadshow | June 2015</span></h4>
+					</article>
+					<article class="exp">
+						<h4>Co-Organiser<br />
+							<span>BanterHack | Febuary 2016</span></h4>
+					</article>
+					<article class="exp">
+						<h4>Mentor &amp; Voulnteer<br />
+							<span>UKGovHack | April 2016</span></h4>
 					</article>
 
 				</div>
@@ -231,7 +252,7 @@
 						<h4>SunEos<br />
 							<span>Technical Lead | October 2014 - December 2014</span></h4>
 						<p>
-							Brief stint in startup. Responsibilities there encompassed anything technical. This included mobile app development with Phonegap &amp; NFC, building dashboards, along with designing and developing the <a href="http://suneos.co.uk/">website</a>.   
+							Brief stint in startup. Responsibilities there encompassed anything technical. This included mobile app development with Phonegap &amp; NFC, building dashboards, along with designing and developing the website.   
 						</p>
 					</article>
 
