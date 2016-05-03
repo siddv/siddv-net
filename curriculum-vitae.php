@@ -220,7 +220,7 @@
 						<h4>British Airways / Leighton LTD<br />
 							<span>Software Engineer | April 2015 - Present</span></h4>
 						<p>
-							Currently undertaking contract work at British Airways as a software engineer. The project I'm on currently involves re-creating the entire selling flow of <a href="http://ba.com" target="_blank">BA.com</a> as a single page AngularJS application.
+							Over the last year I have been working as a sub-contractor at British Airways. The project I am working on involves working in an agile environment to re-create the entire booking experience of <a href="http://ba.com" target="_blank">BA.com</a> as a single page Angular application. My roles include arthitecting robust and flexible technical solutions, building reusable functionality-providing components, along with working on various pages and functionality through out the application. All code I've written follows strict standards, including comphrensive unit testing, automated testing, and continuious integration. 
 						</p>
 					</article>
 
@@ -257,13 +257,13 @@
 						</p>
 					</article>
 
-					<!--<article class="exp">
+					<article class="exp">
 						<h4>Hackathons<br />
 							<span>2013 - Present</span></h4></h4>
 						<p>
-							Hackathons are events where teams of creators are tasked with coming up with an idea and creating it within the space of 24, or 48 hours. At the end of this time all development must stop, and the teams are given a chance to present their creation. I'm a regular hackathon attendee, and have won a number of them. 
+							Hackathons are events where teams of creators are tasked with coming up with an idea and buinding it, from conception to prototype, within the space of 24, or 48 hours. At the end of this time all development must stop, and the teams are given a chance to present their creation. I'm a regular hackathon attendee, and have won a number of them, along with organising <a href="http://banterhack.com/" target="_blank">my own</a>. 
 						</p>
-					</article>-->
+					</article>
 				</article>
 			</section>
 			<!--<div class="tile_spacer"></div>
