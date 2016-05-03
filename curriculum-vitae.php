@@ -52,36 +52,29 @@
 			<section id="cv-skills" class="artile full small-med"> 
 				<article class="inner_artile">
 					<h3>Skills</h3>
-			
+					<p>
+						I love learning and challanging myself. I consider myself a pretty fast learner, and am pretty confident in picking up new languages and skills.
+					</p>
 					<div id="webskills" class="half firstof">
 
 					<h4>Web Development</h4>
 					<div>
 
-							<h5>Things I'm good at:</h5>
-								<ul>
-									<li>HTML/5</li>
-									<li>CSS/3</li>
-									<li>JavaScript/JQuery</li>
-									<li>MQTT</li>
-									<li>PHP</li>
-									<li>MySQL</li>
-									<li>AngularJS</li>
-
-								</ul>
-							
-						
-					</div>
-					<div>
-
-							<h5>Things I'm learning:</h5>
-								<ul>
-									<li>Node.js</li>
-									<li>MVC with Sails,js</li>
-									<li>Ionic</li>
-									<li>Phonegap</li>
-								</ul>
-							
+							<ul>
+								<li>Semantic HTML: 5/Jade</li>
+								<li>Responsive CSS: 3/SASS/LESS</li>
+								<li>JavaScript: Angular/JQuery</li>
+								<li>Taskrunners: Gulp/Grunt</li>
+								<li>Testing: Protactor/Jasmine/Selenium</li>
+								<li>Version Control: Git/SVN</li>
+								<li>Continious Integration: Jenkins</li>
+								<li>Canvas</li>								
+								<li>Websockets</li>
+								<li>MQTT</li>
+								<li>Node: Express/Sails</li>
+								<li>Full LAMP stack</li>
+								<li>Phonegap: Ionic</li>
+							</ul>
 						
 					</div>
 					<!--<div class="third lastof">
@@ -99,11 +92,12 @@
 					
 					<div class="half lastof">
 						<h4>Physical Computing</h4>
-						<p>I'm constantly looking for ways to create fun projects with hardware that interact and communicate with my web applications.</p>
+						<p>I'm constantly looking for ways to create fun projects with hardware that interact and communicate with my web applications. Internet of things and whatnot.</p>
 						<ul>
 							<li>Intel Edison + Galileo</li>
 							<li>Raspberry Pi</li>
 							<li>Extensive Arduino</li>
+							<li>3D modelling/printing</li>
 						</ul>
 					
 						<h4>Design</h4>
