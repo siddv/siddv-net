@@ -540,6 +540,11 @@
 			transition: all ease-in-out 0.1s;
 		}
 
+		a.view-more.disabled{
+			background-color: #bbbbbb;
+			border: 1px solid #bbbbbb;
+
+		}
 
 		.project-wrap img{
 			width: 940px; 
