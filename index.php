@@ -31,9 +31,21 @@
 					<h3>Mobius</h3>
 
 					<p>
-						<a href="http://mobius.siddv.net/" target="_blank">Mobius</a> was my university final project. It is a framework for creating wireless &ldquo;Internet of Things&rdquo; Ardunio projects with web-based control. Mobius generates both, the web-based control and the Ardunio code, allowing you to create huge portions of projects without writing a single line of code.
+						<a href="http://mobius.siddv.net/" target="_blank">Mobius</a> is a framework for creating wireless &ldquo;Internet of Things&rdquo; Ardunio projects with web-based control. Mobius generates both, the web-based control and the Ardunio code, allowing you to create huge portions of projects without writing a single line of code.
 					</p>
 					<a href="/projects/mobius" class="view-more">view project</a>
+				</article>
+			</article>
+
+			<article class="project">
+				<img src="/resources/images/portfolio/blade.jpg" />
+				<article>
+					<h3>The Blade</h3>
+
+					<p>
+						This was a chiptune keytar built by <a href="http://www.thereminhero.com/" target="_blank">Greig Stewart</a>, <a href="http://wray.pro/" target="_blank">Sam Wray</a>, and myself at <a href="http://buzz-jam.com/" target="_blank">BuzzJam</a>. It comprised of hacked Guitar Hero guitars, a Rock Band keytar, two Game Boys, an Arduino Mega, and a Raspberry Pi, and a Leap Motion. The Blade was featured on the <a href="http://www.bbc.co.uk/newsbeat/article/34310120/six-emerging-music-acts-spend-two-days-making-six-new-instruments" target="_blank">BBC</a> and <a href="http://noisey.vice.com/en_uk/blog/buzz-jam-lets-artists-invent-their-own-musical-instrument" target="_blank">Vice</a>.
+					</p>
+					<a href="/projects/blade" class="view-more">view project</a>
 				</article>
 			</article>
 
@@ -43,9 +55,9 @@
 					<h3>British Airways</h3>
 
 					<p>
-						The project I am working on at British Airways involves re-creating the entire booking platform from the ground up as an AngularJS application. The project aims to transform the current platform into a cleaner, easier and user-focused experience.   
+						The project I am working on at British Airways involves re-creating the entire booking platform from the ground up as an AngularJS application. The project aims to transform the current platform into a cleaner, simpler, and more user-focused experience.   
 					</p>
-					<a href="javascript:void(0)" class="view-more disabled">not yet available</a>
+					<a href="javascript:void(0)" class="view-more disabled">coming soon</a>
 				</article>
 			</article>
 
@@ -55,7 +67,7 @@
 					<h3>N9 Design</h3>
 
 					<p>
-						<a href="http://n9design.com/" target="_blank">N9 Design</a> is a creative studio at which I previously worked as a Junior Developer/Designer. It was an extremely valuable year, from which I learned a huge amount while gradually expanding my role in the studio. My day-to-day tasks included artworking, eflyers and bespoke web development.
+						<a href="http://n9design.com/" target="_blank">N9 Design</a> is a creative studio at which I previously worked as a Junior Developer/Designer. During my time here, using the N9 CMS, I built nine content-managed websites and contriuted to ten others. Along with this I produced around 70 e-flyers, and 300 pieces of artwork for various campaigns.
 					</p>
 					<a href="/projects/n9-design" class="view-more">view project</a>
 				</article>
@@ -67,7 +79,7 @@
 					<h3>Quartz</h3>
 
 					<p>
-						<a href="http://quartz.jamiepat.es" target="_blank">Quartz</a> was an interactive installation. As an individual walks past a physical phone, the phone will ring enticing the user to answer it. Once answered the user will be connected to a random phone number from a database of people who have opted into the project, creating a conversation between two strangers.  
+						<a href="http://quartz.jamiepat.es" target="_blank">Quartz</a> was an interactive installation. As an individual walks past a physical phone, the phone will ring enticing the user to answer it. Once answered the user will be connected to a random phone number from a database of people who have opted into the project, creating a conversation between two strangers.
 					</p>
 					<a href="/projects/quartz" class="view-more">view project</a>
 				</article>
@@ -91,7 +103,7 @@
 					<h3>KOTH</h3>
 
 					<p>
-						<a href="http://koth.soddv.net/" target="_blank">KOTH</a> is a game based on '<a href="http://en.wikipedia.org/wiki/King_of_the_Hill_(game)" target="_blank">king of the hill</a>' that takes place both physically &amp; digitally. Players must enter randomly generated codes on their smartphone, the active code is displayed in a set location. After a user has entered the code, they become king. This initiates a cooldown on the code screen until the next code generates. 
+						<a href="http://koth.siddv.net/" target="_blank">KOTH</a> is a game based on '<a href="http://en.wikipedia.org/wiki/King_of_the_Hill_(game)" target="_blank">king of the hill</a>' that takes place both physically &amp; digitally. Players must enter randomly generated codes on their smartphone, the active code is displayed in a set location. After a user has entered the code, they become king. This initiates a cooldown on the code screen until the next code generates. 
 					</p>
 					<a href="http://koth.siddv.net" class="view-more">view project &nbsp;<img class="external-link-img" src="/resources/images/external-link.png"/></a>
 				</article>

@@ -543,7 +543,7 @@
 		a.view-more.disabled{
 			background-color: #bbbbbb;
 			border: 1px solid #bbbbbb;
-
+			cursor: not-allowed;
 		}
 
 		.project-wrap img{
@@ -561,6 +561,10 @@
 
 		#termisoc-three img{
 			/*padding-bottom: 14px; */
+		}
+
+		.blade-points h4 {
+			margin-bottom: 12px;
 		}
 
 		.outer-yt-wrap{

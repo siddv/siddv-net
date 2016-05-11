@@ -2,4 +2,5 @@ RewriteEngine on
 RewriteRule ^projects/([-a-zA-Z0-9]+) projects/$1.php
 RewriteRule ^about-me about.php
 RewriteRule ^cv curriculum-vitae.php
+RewriteRule ^curriculum-vitae curriculum-vitae.php
 RewriteRule ^n9-reference n9-reference.php
