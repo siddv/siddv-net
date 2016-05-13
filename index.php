@@ -16,7 +16,7 @@
 				I'm Sidd; a designer, developer and general all-round maker. I like creating both virtual and physical experiences, being versatile enough to tackle any part of a project, be it design, development or hardware. Focusing on bringing all elements together to create a streamlined user experience.
 			</p>
 			<p>
-				Currently I'm based in London UK working as an Angular developer at <a href="http://ba.com" target="_blank">British Airways</a>, having graduated last year in BSc <a href="http://digitalartandtechnology.co.uk" target="_blank">Digital Art &amp; Technology</a> with a first-class honours from Plymouth University.
+				Currently I'm based in London UK working as an Angular developer at <a href="http://ba.com" target="_blank">British Airways</a>, having graduated in 2014 in BSc <a href="http://digitalartandtechnology.co.uk" target="_blank">Digital Art &amp; Technology with Interaction Design</a> with a first-class honours from Plymouth University.
 			</p>
 		</article>
 	</section>
