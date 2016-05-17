@@ -53,31 +53,30 @@
 				<article class="inner_artile">
 					<h3>Skills</h3>
 					<p>
-						I love learning and challanging myself. I consider myself a pretty fast learner, and am pretty confident in picking up new languages and skills. You can see some of my side projects on <a href="https://github.com/siddv" target="_blank">my GitHub</a>.
+						I love learning and challenging myself. I consider myself a pretty fast learner, and am pretty confident in picking up new languages and skills. You can see some of my side projects on <a href="https://github.com/siddv" target="_blank">my GitHub</a>.
 					</p>
 					<div id="webskills" class="half firstof">
 
 					<h4>Web Development</h4>
 					<div>
-
+						<h5>Core</h5>
 						<ul>
-							<li>Semantic HTML: 5/Jade</li>
-							<li>Responsive CSS: 3/SASS/LESS</li>
-							<li>JavaScript: Angular/D3/JQuery</li>
-							<li>Taskrunners: Gulp/Grunt</li>
+							<li>JavaScript: Angular/JQuery</li>
 							<li>Testing: Protactor/Jasmine/Selenium</li>
+							<li>Taskrunners: Gulp/Grunt</li>
+							<li>Semantic HTML</li>
+							<li>Responsive CSS/SCSS</li>
 							<li>Version Control: Git/SVN</li>
+						</ul>
+						<h5>Additional</h5>
+						<ul>
+							<li>Node: Express/Sails</li>
 							<li>Continious Integration: Jenkins</li>
 							<li>Phonegap: Ionic</li>
-							<li>Canvas</li>
-							<li>Websockets</li>
-							<li>MQTT</li>
-							<li>Node: Express/Sails</li>
+							<li>Websockets/MQTT</li>
 							<li>Python</li>
-							<li>Apache</li>
 							<li>PHP</li>
 							<li>MySQL</li>
-							<li>Hosting: Heroku/Digital Ocean/AWS</li>
 						</ul>
 						
 					</div>
@@ -105,7 +104,7 @@
 						</ul>
 					
 						<h4>Design</h4>
-						<p>I design things anywhere from flyers and posters, to bespoke web solutions. I have experience in both digital and print design.</p>
+						<p>I design things anywhere from flyers and posters, to bespoke web solutions. I have experience in both digital and print design, along with video editing.</p>
 						<ul>
 							<li>Sketch 3</li>
 							<li>Photoshop</li>
@@ -235,7 +234,7 @@
 						<h4>British Airways / Leighton LTD<br />
 							<span>Software Engineer | April 2015 - Present</span></h4>
 						<p>
-							Over the last year I have been working as a sub-contractor at British Airways. The project I am working on involves working in an agile environment to re-create the entire booking experience of <a href="http://ba.com" target="_blank">BA.com</a> as a single page Angular application. My roles include arthitecting robust and flexible technical solutions, building reusable functionality-providing components, along with working on various pages and functionality through out the application. All code I've written follows strict standards, including comphrensive unit testing, automated testing, and continuious integration. 
+							Over the last year I have been working as a sub-contractor at British Airways. The project I am working on involves working in an agile environment to re-create the entire booking experience of <a href="http://ba.com" target="_blank">BA.com</a> as a single page Angular application. My roles include arthitecting robust and flexible technical solutions, building reusable functionality-providing components, along with working on various pages and functionality through out the application. All code I've written follows strict standards, including comprehensive unit testing, automated testing, and continuous integration. 
 						</p>
 					</article>
 
