@@ -43,143 +43,32 @@
 		</article>
 	</section>
 
-	<section class="artile full medium"> 
-		<article class="inner_artile">
-			<h3>Places you can find me on the internet</h3>
-			<p>I am a computer person, so I have many online presences. Some I make public, some I do not. Firstly I have a <a href="https://twitter.com/siddvee" class="ext-link" target="_blank" id="twitter-link">Twitter</a> which is probably where I'm most active, and post about things that are related to technology and also things that are not related to technology. I also have a <a href="https://linkedin.com/in/siddv" class="ext-link" target="_blank" id="linkedin-link">LinkedIn</a>. I occasionally post videos relating to projects on my <a href="https://youtube.com/user/siddv" class="ext-link" target="_blank" id="youtube-link">YouTube</a> account.<!-- I sometimes post on Reddit too, if you're into that kinda thing - I posted a picture where <a href="http://www.reddit.com/r/techsupportmacgyver/comments/1to2p1/my_laptop_charger_kept_falling_out_presenting/" target="_blank">I stuck some velcro onto my laptop and charger</a> that a few people seemed to like.--></p>
-		</article>
-	</section>
-
-<section id="cv-skills" class="artile full medium"> 
-				<article class="inner_artile">
-					<h3>Skills</h3>
-			
-					<div id="webskills" class="half firstof">
-
-					<h4>Web Development</h4>
-					<div>
-
-							<h5>Things I'm good at:</h5>
-								<ul>
-									<li>HTML/5</li>
-									<li>CSS/3</li>
-									<li>JavaScript/JQuery</li>
-									<li>MQTT</li>
-									<li>PHP</li>
-									<li>MySQL</li>
-								</ul>
-							
-						
-					</div>
-					<div>
-
-							<h5>Things I'm learning:</h5>
-								<ul>
-									<li>Node.js</li>
-									<li>MVC with Sails,js</li>
-									<li>AngularJS</li>
-									<li>Ionic</li>
-									<li>Phonegap</li>
-								</ul>
-							
-						
-					</div>
-					<!--<div class="third lastof">
-
-							<h5>Things I'm willing to learn:</h5>
-								<ul>
-									<li>Your technology here</li>
-									<p>I have a keen interest in learning new things, and can get comfortable with new technologies quickly.
-									</p>
-								</ul>
-							
-						
-					</div>-->
-					</div>
-					
-					<div class="half lastof">
-						<h4>Physical Computing</h4>
-						<p>I'm constantly looking for ways to create fun projects with hardware that interact and communicate with my web applications.</p>
-						<ul>
-							<li>Intel Edison + Galileo</li>
-							<li>Raspberry Pi</li>
-							<li>Extensive Arduino</li>
-						</ul>
-					
-						<h4>Design</h4>
-						<p>I design things anywhere from flyers and posters, to bespoke web solutions. I have experience in both digital and print design.</p>
-						<ul>
-							<li>Sketch 3</li>
-							<li>Photoshop</li>
-							<li>InDesign</li>
-							<li>Premiere Pro</li>
-
-
-						</ul>
-					</div>
-					<div class="clear"></div>
-
-				</article>
-			</section>
-
 	<!--<section class="artile full medium"> 
-		<article class="inner_artile">
-			<h3>Technical Skills</h3>
-			<h4>Design</h4>
-			<p>I design things anywhere from flyers and posters to complete branding solutions and bespoke website design. I have experience in both digital and print design.</p>
-			<ul>
-				<li>Photoshop</li>
-				<li>InDesign</li>
-				<li>Premiere Pro</li>
-			</ul>
-
-			<h4>Web Development</h4>
-			<p>I started developing when I was around 18. I'm competent in semantically and logically written HTML, as well as beating CSS until it submits to my will. I have also build my own object-oriented PHP framework/CMS from the ground up.</p>
-			<ul>
-				<li>Things that I'm pretty good at:
-					<ul>
-						<li>HTML/5</li>
-						<li>CSS/3</li>
-						<li>JavsScript/JQuery</li>
-						<li>MQTT</li>
-						<li>AJAX</li>
-						<li>Object oriented PHP</li>
-						<li>MySQL</li>
-					</ul>
-				</li>
-			</ul>
-			<ul>
-				<li>Things that I'm not as good at, but am learning:
-					<ul>
-						<li>Node.js</li>
-						<li>Python/Django with PostgreSQL</li>
-					</ul>
-				</li>
-			</ul>
-			<ul>
-				<li>Things that I'm willing to learn:
-					<ul>
-						<li>&lt;Your technology here&gt;</li>
-						<p>I have a pretty keen interest in learning new things, and like to think that I pick up and get comfortable with new technologies relative quickly.
-						</p>
-						<p>"Input! More Input!" - 'Johnny' Number 5</p>
-					</ul>
-				</li>
-			</ul>
-			<h4>Physical Computing</h4>
-			<p>Having a background in web, and ever since discovering the wonderful world of Raspberry Pi and Arduino, I've been constantly looking for ways to create fun projects with hardware that interact and communicate with web applications.</p>
-			<ul>
-				<li>Raspberry Pi</li>
-				<li>Arduino + shields
-					<ul>
-						<li>Ethernet/Wifi</li>
-						<li>MQTT</li>
-						<li>433MHz Radio Frequency</li>
-					</ul>
-				</li>
-			</ul>
+		<article class="inner_artile online-presence">
+			<h3>Places you can find me on the internet</h3>
+			<div class="social-images">
+				<a href="https://github.com/siddv" target="_blank">
+					<img src="/resources/images/social/social-1_square-github.svg" alt="LastFM">
+				</a>
+				<a href="https://twitter.com/siddvee" target="_blank">
+					<img src="/resources/images/social/social-1_square-twitter.svg" alt="LastFM">
+				</a>
+				<a href="https://uk.linkedin.com/in/siddv" target="_blank">
+					<img src="/resources/images/social/social-1_square-linkedin.svg" alt="LastFM">
+				</a>
+				<a href="https://youtube.com/user/siddv" target="_blank">
+					<img src="/resources/images/social/social-1_square-youtube.svg" alt="LastFM">
+				</a>
+				<a href="http://last.fm/user/siddv91" target="_blank">
+					<img src="/resources/images/social/social-1_square-lastfm.svg" alt="LastFM">
+				</a>
+				<a href="#" target="_blank">
+					<img src="/resources/images/social/social-1_square-spotify.svg" alt="LastFM">
+				</a>
+			</div>
 		</article>
 	</section>-->
+
 
 <?php 
 	include($_SERVER['DOCUMENT_ROOT'].'/resources/inc/footer.php');

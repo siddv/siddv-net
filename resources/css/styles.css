@@ -621,22 +621,6 @@
 			margin-left: auto;
 		}
 
-		.ext-link{
-			font-weight: bold;
-		}
-
-		#twitter-link{
-			color: #55ACEE;
-		}
-
-		#linkedin-link{
-			color: #007bb6;
-		}
-
-		#youtube-link{
-			color: #bb0000;
-		}
-
 		#contact-me{
 			background: url(/resources/images/nice-snow.png) repeat;
 
@@ -833,4 +817,40 @@
 				display: none;
 			}
 
+		}
+
+		.online-presence {
+			padding-bottom: 24px;
+		}
+
+		.online-presence a {
+			text-decoration: none;
+		}
+
+		.online-presence img {
+			width: 48px;
+			margin: 6px;
+			background-color: #fff;
+			opacity: 0.8;
+			-webkit-transition: opacity ease-in-out 0.1s;
+			-moz-transition: opacity ease-in-out 0.1s;
+			-o-transition: opacity ease-in-out 0.1s;
+			transition: opacity ease-in-out 0.1s;
+		}
+
+		.online-presence img:hover {
+			opacity: 1;
+		}
+
+		.social-images {
+			text-align: center;
+		}
+
+		.social-images:after {
+			visibility: hidden;
+			display: block;
+			font-size: 0;
+			content: " ";
+			clear: both;
+			height: 0;
 		}
