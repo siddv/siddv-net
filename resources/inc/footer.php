@@ -20,7 +20,7 @@
 						<a href="http://last.fm/user/siddv91" target="_blank">
 							<img src="/resources/images/social/social-1_square-lastfm.svg" alt="LastFM">
 						</a>
-						<a href="#" target="_blank">
+						<a href="https://open.spotify.com/user/siddvee" target="_blank">
 							<img src="/resources/images/social/social-1_square-spotify.svg" alt="LastFM">
 						</a>
 					</div>

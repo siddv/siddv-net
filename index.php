@@ -91,7 +91,7 @@
 					<h3>Laptop Screen Monitor</h3>
 
 					<p>
-						This was a project I undertook when my previous laptop died. Aiming to reuse as many of the components as possible, I modified the laptop's screen to function as an external monitor. This project was quite a popular one, generating around 1.2 million views acorss a number of media websites.
+						This was a project I undertook when my previous laptop died. Aiming to reuse as many of the components as possible, I modified the laptop's screen to function as an external monitor. This project was quite popular, generating around 1.2 million hits acorss a number of media websites, including Hacker News and Reddit.
 					</p>
 					<a href="http://blog.siddv.net/2014/09/turning-laptop-screen-into-external.html" class="view-more">view project &nbsp;<img class="external-link-img" src="/resources/images/external-link.png"/></a>
 				</article>
