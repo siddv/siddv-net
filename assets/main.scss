@@ -1,0 +1,29 @@
+$navbar-breakpoint: 0px;
+
+$desktop: 960px;
+$widescreen: 1152px;
+$fullhd: 1152px;
+
+.sv__copy-block {
+  max-width: 800px !important;
+
+  img {
+    display: block;
+    margin: 0 auto;
+    max-width: 400px;
+  }
+}
+
+@import "~bulma/sass/utilities/_all.sass";
+
+@import "~bulma/sass/base/_all.sass";
+@import "~bulma/sass/components/navbar.sass";
+
+@import "~bulma/sass/elements/box.sass";
+@import "~bulma/sass/elements/container.sass";
+@import "~bulma/sass/elements/content.sass";
+@import "~bulma/sass/elements/title.sass";
+
+@import "~bulma/sass/grid/columns.sass";
+
+@import "~bulma/sass/layout/_all.sass";
