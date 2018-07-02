@@ -15,10 +15,10 @@
             Home
           </nuxt-link>
           <nuxt-link
-            to="/about"
+            to="/cv"
             exact-active-class="is-active"
             class="navbar-item">
-            About
+            CV
           </nuxt-link>
           <a 
             href="https://blog.siddv.net"
@@ -38,13 +38,13 @@
         <p>
           Built using 
           <a
-            href="https://nuxtjs.org/"
+            href="https://nuxtjs.org"
             target="_blank"
             rel="noopener">
             Nuxt</a>
           and 
           <a
-            href="htps://bulma.io."
+            href="htps://bulma.io"
             target="_blank"
             rel="noopener">
             Bulma</a>.

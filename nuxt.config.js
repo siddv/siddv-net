@@ -3,11 +3,11 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    title: 'siddv-net',
+    title: 'Siddv.net',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'my website' }
+      { hid: 'description', name: 'description', content: 'The personal website of Siddharth Vadgama; A creative technologist based in London, UK.' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
@@ -23,7 +23,7 @@ module.exports = {
   /*
   ** Customize the progress bar color
   */
-  loading: { color: '#3B8070' },
+  loading: { color: '#f78516' },
   /*
   ** Build configuration
   */
@@ -41,5 +41,6 @@ module.exports = {
         })
       }
     }
-  }
+  },
+  plugins: ['~/plugins/custom']
 }

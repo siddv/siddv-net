@@ -3,16 +3,9 @@
   <div>
     <section class="hero">
       
-      <div class="hero-body">
-        <div class="container has-text-centered">
-          <h1 class="title">
-            Siddharth Vadgama
-          </h1>
-          <h2 class="subtitle">
-            I make things
-          </h2>
-        </div>
-      </div>
+      <page-title
+        title="Siddharth Vadgama"
+        subtitle="I make things"/>
 
       <div class="hero-body content sv__hero">
         <blockquote class="container has-text-centered blockquote sv__hero-blurb">
@@ -64,7 +57,6 @@ import ProjectData from '~/static/data.js'
 
 import ProjectButton from '~/components/ProjectButton'
 
-
 export default {
   data() {
     return {
@@ -72,7 +64,7 @@ export default {
     }
   },
   components: {
-    ProjectButton
+    ProjectButton,
   }
 }
 </script>

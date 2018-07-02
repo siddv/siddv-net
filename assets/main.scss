@@ -4,5 +4,9 @@ $desktop: 960px;
 $widescreen: 1152px;
 $fullhd: 1152px;
 
+.sv__copy-block {
+  max-width: 800px !important;
+}
+
 @import "~bulma/sass/utilities/_all.sass";
 @import "~bulma/bulma";
