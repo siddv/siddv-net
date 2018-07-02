@@ -5,7 +5,7 @@
       
       <div class="hero-body">
         <div class="container has-text-centered">
-          <h1 class="title is-2">
+          <h1 class="title">
             Siddharth Vadgama
           </h1>
           <h2 class="subtitle">
@@ -16,7 +16,7 @@
 
       <div class="hero-body content sv__hero">
         <blockquote class="container has-text-centered blockquote sv__hero-blurb">
-          <h2 class="title is-3">Who I am</h2>
+          <h2 class="title is-4">Who I am</h2>
           <p>
             I'm Sidd; a creative technologist. I like creating both virtual and physical experiences, being versatile enough to tackle any part of a project, be it design, development or hardware. Focusing on bringing all elements together to create a streamlined user experience.
           </p>
@@ -31,10 +31,10 @@
 
       <div class="container">
 
-        <h2 class="title is-3">Some things I've done</h2>
+        <h2 class="title is-4">Some things I've done</h2>
 
         <figure
-          class="columns"
+          class="columns sv__project-list-item"
           v-for="project in projects"
           :key="project.name">
 
@@ -42,8 +42,8 @@
             <img :src="project.img">
           </div>
 
-          <figcaption class="column is-two-thirds content">
-            <h3 class="title is-4">{{project.title}}</h3>
+          <figcaption class="column is-two-thirds content is-clearfix">
+            <h3 class="title is-5">{{project.title}}</h3>
 
             <p v-html="project.description"></p>
 
@@ -91,7 +91,7 @@ export default {
     background: rgba(0,0,0,0.75);
     border-left: 0;
     color: white;
-    max-width: 600px;
+    max-width: 640px;
     padding: 2em 2em;
 
     p {
@@ -101,6 +101,17 @@ export default {
     .title {
       color: white;
     }
+  }
+}
+
+.sv__project-list-item {
+  border-bottom: 1px solid lightgrey;
+  flex-direction: row;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+  
+  &:nth-child(odd) {
+    flex-direction: row-reverse;
   }
 }
 
