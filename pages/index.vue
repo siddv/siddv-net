@@ -66,6 +66,11 @@ export default {
   },
   components: {
     ProjectButton,
+  },
+  head() {
+    return {
+      title: 'Home'
+    }
   }
 }
 </script>

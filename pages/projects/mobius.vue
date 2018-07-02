@@ -89,6 +89,11 @@ import Youtube from '~/components/Youtube.vue'
 export default {
   components:{
     Youtube
+  },
+  head () {
+    return {
+      title: 'Mobius'
+    }
   }
 }
 </script>

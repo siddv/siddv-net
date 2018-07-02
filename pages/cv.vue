@@ -251,6 +251,17 @@
   
 </template>
 
+<script>
+export default {
+  head () {
+    return {
+      title: 'CV'
+    }
+  }
+}
+</script>
+
+
 <style lang="scss" scoped>
 
 @import "~bulma/sass/utilities/_all.sass";

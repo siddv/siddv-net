@@ -82,6 +82,11 @@ import Youtube from '~/components/Youtube'
 export default {
   components: {
     Youtube
+  },
+  head () {
+    return {
+      title: 'Quartz'
+    }
   }
 }
 </script>

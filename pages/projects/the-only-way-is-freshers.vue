@@ -27,6 +27,16 @@
   </div>
 </template>
 
+<script>
+export default {
+  head () {
+    return {
+      title: 'The Only Way is Freshers'
+    }
+  }
+}
+</script>
+
 <style lang="scss" scoped>
 img {
   display: block;

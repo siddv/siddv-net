@@ -38,6 +38,16 @@
   </div>
 </template>
 
+<script>
+export default {
+  head () {
+    return {
+      title: 'Termisoc'
+    }
+  }
+}
+</script>
+
 <style lang="scss" scoped>
 .poster-container img {
   width: 33.33%
