@@ -3,7 +3,9 @@
     <nav class="navbar is-fixed-top is-dark">
       <div class="container sv__navigation-container">
         <div class="navbar-brand">
-          <a class="navbar-item">
+          <a
+            href="/"
+            class="navbar-item">
             Siddv.net
           </a>
         </div>

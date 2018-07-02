@@ -104,6 +104,10 @@ export default {
   &:nth-child(odd) {
     flex-direction: row-reverse;
   }
+
+  &:last-of-type{ 
+    border-bottom: 0;
+  }
 }
 
 @include tablet {
