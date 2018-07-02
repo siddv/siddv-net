@@ -5,11 +5,7 @@
     title="The Blade"
     subtitle="Gameboy-driven chiptune keytar"/>
 
-  <section class="section">
-    <div class="container sv__copy-block">
-        <iframe src="//www.youtube.com/embed/E1az4R__fWQ" frameborder="0" allowfullscreen></iframe>
-    </div>
-	</section>
+  <Youtube vid="E1az4R__fWQ"/>
 
 	<section class="section">
     <div class="container sv__copy-block content">
@@ -104,3 +100,13 @@
 
   </div>    
 </template>
+
+<script>
+import Youtube from '~/components/Youtube.vue'
+
+export default {
+  components:{
+    Youtube
+  }
+}
+</script>
