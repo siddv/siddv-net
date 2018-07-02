@@ -10,7 +10,7 @@ module.exports = {
       { hid: 'description', name: 'description', content: 'The personal website of Siddharth Vadgama; A creative technologist based in London, UK.' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.png' }
     ]
   },
   /*
