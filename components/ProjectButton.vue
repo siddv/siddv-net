@@ -4,7 +4,7 @@
       v-if="!external"
       class="sv__project-button"
       :class="{'sv__project-button--disabled': disabled}"
-      disabled
+      :disabled="disabled"
       :to="to">
 
       view more
@@ -15,6 +15,7 @@
       class="sv__project-button"
       :href="to"
       target="_blank"
+      :disabled="disabled"
       rel="noopener">
 
       view more
@@ -32,8 +33,14 @@ export default {
       type: String,
       default: '/'
     },
-    external: Boolean,
-    disabled: Boolean
+    external: {
+      type: Boolean,
+      default: false
+    },
+    disabled: {
+      type: Boolean,
+      default: false
+    }
   }
 }
 </script>
