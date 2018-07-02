@@ -74,5 +74,37 @@ module.exports = {
         link: '/projects/the-only-way-is-freshers'
       }
     },
-]
+  ],
+  social: [
+    {
+      href: 'https://github.com/siddv',
+      image: require('~/assets/images/social/social-1_square-github.svg'),
+      alt: 'Github'
+    },
+    {
+      href: 'https://twitter.com/siddvee',
+      image: require('~/assets/images/social/social-1_square-twitter.svg'),
+      alt: 'Twitter'
+    },
+    {
+      href: 'https://uk.linkedin.com/in/siddv',
+      image: require('~/assets/images/social/social-1_square-linkedin.svg'),
+      alt: 'LinkedIn'
+    },
+    {
+      href: 'https://youtube.com/user/siddv',
+      image: require('~/assets/images/social/social-1_square-youtube.svg'),
+      alt: 'YouTube'
+    },
+    {
+      href: 'http://last.fm/user/siddv91',
+      image: require('~/assets/images/social/social-1_square-lastfm.svg'),
+      alt: 'LastFM'
+    },
+    {
+      href: 'https://open.spotify.com/user/siddvee',
+      image: require('~/assets/images/social/social-1_square-spotify.svg'),
+      alt: 'Spotify'
+    },
+  ]
 }

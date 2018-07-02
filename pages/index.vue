@@ -18,10 +18,10 @@
         <blockquote class="container has-text-centered blockquote sv__hero-blurb">
           <h2 class="title is-4">Who I am</h2>
           <p>
-            I'm Sidd; a creative technologist. I like creating both virtual and physical experiences, being versatile enough to tackle any part of a project, be it design, development or hardware. Focusing on bringing all elements together to create a streamlined user experience.
+            I'm Sidd; a creative technologist. I like creating both virtual and physical experiences, being versatile enough to tackle large and diverse parts of projects. Focusing on bringing all elements together to create a streamlined user experience.
           </p>
           <p>
-            Currently, I'm based in London working as a Senior Frontend Developer at <a href="http://www.tribalworldwide.co.uk/" target="_blank">Tribal&nbsp;Worldwide</a>. Previously an Angular Developer at <a href="http://www.tribalworldwide.co.uk/" target="_blank">British&nbsp;Airways</a>.
+            Currently, I'm based in London working as a Senior Frontend Developer at <a href="http://www.tribalworldwide.co.uk/" target="_blank">Tribal&nbsp;Worldwide</a>. Previously an Angular Developer at <a href="http://www.ba.com/" target="_blank">British&nbsp;Airways</a>.
           </p>
         </blockquote>
       </div>
@@ -31,7 +31,7 @@
 
       <div class="container">
 
-        <h2 class="title is-4">Some things I've done</h2>
+        <h2 class="title is-4 sv__title">Some things I've done</h2>
 
         <figure
           class="columns sv__project-list-item"
@@ -49,8 +49,7 @@
 
             <project-button
               :to="project.cta.link"
-              :external="project.cta.external">
-            </project-button>
+              :external="project.cta.external"/>
           </figcaption>
         </figure>
 
@@ -88,7 +87,7 @@ export default {
   padding: 0 !important;
 
   blockquote.sv__hero-blurb {
-    background: rgba(0,0,0,0.75);
+    background: rgba($dark ,0.9);
     border-left: 0;
     color: white;
     max-width: 640px;
@@ -99,13 +98,13 @@ export default {
     }
 
     .title {
-      color: white;
+      color: $white;
     }
   }
 }
 
 .sv__project-list-item {
-  border-bottom: 1px solid lightgrey;
+  border-bottom: 1px solid $light;
   flex-direction: row;
   padding-bottom: 2rem;
   padding-top: 2rem;
