@@ -1,6 +1,10 @@
 <template>
   <div>
 
+    <page-title
+      title="Termisoc"
+      subtitle="The Plymouth University Computing Society"/>
+
     <section class="section">
       <div class="container">
         <img alt="TermiSoc banner" src="~/assets/images/portfolio/termisoc/banner.jpg" />
