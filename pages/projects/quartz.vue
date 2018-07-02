@@ -45,18 +45,20 @@
       <div class="container content sv__copy-block">
         <p>
           We began constructing the physical phone. This comprimised of:
-          <ul>
-            <li>An Arduino
-              <ul>
-                <li>We hooked up a WiFi-enabled Arduino to an ultrasonic sensor. When something got close enough for the ultrasonic sensor to pick up, the Arduino sent a signal (over MQTT) to the Node.js script, triggering the system.</li>
-              </ul>
-            </li>
-            <li>A mobile phone
-              <ul>
-                <li>Once the system triggered, the script would call this phone, causing it to ring.</li>
-              </ul>
-            </li>
-          </ul>
+        </p>
+        <ul>
+          <li>An Arduino
+            <ul>
+              <li>We hooked up a WiFi-enabled Arduino to an ultrasonic sensor. When something got close enough for the ultrasonic sensor to pick up, the Arduino sent a signal (over MQTT) to the Node.js script, triggering the system.</li>
+            </ul>
+          </li>
+          <li>A mobile phone
+            <ul>
+              <li>Once the system triggered, the script would call this phone, causing it to ring.</li>
+            </ul>
+          </li>
+        </ul>
+        <p>
           We housed all this inside a wooden dummy phone we constructed. We also added a 'retro' handsfree handset, giving off the overall appearence of a proper land-line phone.
         </p>
         <p>
