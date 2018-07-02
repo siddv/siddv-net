@@ -6,6 +6,12 @@ $fullhd: 1152px;
 
 .sv__copy-block {
   max-width: 800px !important;
+
+  img {
+    display: block;
+    margin: 0 auto;
+    max-width: 400px;
+  }
 }
 
 @import "~bulma/sass/utilities/_all.sass";

@@ -1,5 +1,5 @@
 <template>
-  <div class="">
+  <div>
 
   <page-title
     title="The Blade"
