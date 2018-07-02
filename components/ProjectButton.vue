@@ -3,6 +3,8 @@
     <nuxt-link 
       v-if="!external"
       class="sv__project-button"
+      :class="{'sv__project-button--disabled': disabled}"
+      disabled
       :to="to">
 
       view more
@@ -30,9 +32,8 @@ export default {
       type: String,
       default: '/'
     },
-    external: {
-      type: Boolean
-    }
+    external: Boolean,
+    disabled: Boolean
   }
 }
 </script>
@@ -67,6 +68,13 @@ export default {
       background-color: #B46212;
       border: 1px solid #B46212;
       box-shadow: 0 0 0 rgba(255,255,255,0.5) inset;
+    }
+
+    &[disabled] {
+      background-color: #4e4e4e;
+      border: 1px solid #4e4e4e;
+      opacity: 0.5;
+      cursor: not-allowed;
     }
   }
 

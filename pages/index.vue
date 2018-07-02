@@ -42,7 +42,8 @@
 
             <project-button
               :to="project.cta.link"
-              :external="project.cta.external"/>
+              :external="project.cta.external"
+              :disabled="project.cta.disabled"/>
           </figcaption>
         </figure>
 
