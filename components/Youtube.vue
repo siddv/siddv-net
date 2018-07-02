@@ -21,6 +21,10 @@ export default {
 
 <style lang="scss" scoped>
 
+.section {
+  padding-top: 0;
+}
+
 .yt{
   margin: 0 auto;
   max-width: 820px;
