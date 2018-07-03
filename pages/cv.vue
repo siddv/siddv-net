@@ -97,7 +97,7 @@
       <div class="columns">
         <div class="column">
           <article class="exp">
-            <h4>Mentor &amp; Voulnteer<br />
+            <h4>Mentor &amp; Volunteer<br />
               <span>YRS Festival of Code | August 2014</span></h4>
           </article>
           <article class="exp">
@@ -146,7 +146,7 @@
               <span>BanterHack | Febuary 2016</span></h4>
           </article>
           <article class="exp">
-            <h4>Mentor &amp; Voulnteer<br />
+            <h4>Mentor &amp; Volunteer<br />
               <span>UKGovHack | April 2016</span></h4>
           </article>
 
@@ -199,7 +199,7 @@
             <span>Senior Frontend Developer | August 2017 - Present</span><br />
             <span>Frontend Developer | July 2016 - August 2017</span></h4>
           <p>
-            My role at Tribal encompasses a wide array of skills and responsibilities. I work both, as part of a team, or on my own depending on the project scale and budget. On a normal day, my core responsibilities involve architecting and building frontend solutions for some of our major commercial clients, along with providing support and help for much of the team. Along with this, I work in expanding our capabilities in upcoming and experimental fields, such as Virtual Reality, and Physical Computing. 
+            My role at Tribal encompasses a wide array of skills and responsibilities. I regularly work both independently and as part of a team, depending on the scale and requirements of the project. On a normal day, my core responsibilities involve architecting and building frontend solutions for some of our major commercial clients, along with providing support and help for much of the team. Along with this, I work in expanding our capabilities in upcoming and experimental fields, such as Virtual Reality, and Physical Computing. 
           </p>
         </article>
 
