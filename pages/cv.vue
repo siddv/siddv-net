@@ -19,7 +19,7 @@
             </div>
           </div>
           <p>
-            I'm Sidd. I like creating both virtual and physical experiences, being versatile enough to tackle any part of a project, be it design, development or hardware prototyping. Focusing on bringing all elements together to create a streamlined user experience.
+            I'm Sidd; a creative technologist. I like creating both virtual and physical experiences, being versatile enough to tackle large and diverse parts of projects. Focusing on bringing all elements together to create a streamlined user experience.
           </p>
         </div>
 
@@ -47,7 +47,7 @@
                 <li>Testing: Jasmine/Karma/Selenium</li>
                 <li>Taskrunners: Gulp/Grunt</li>
                 <li>Semantic HTML</li>
-                <li>Responsive CSS/SCSS</li>
+                <li>Responsive CSS/SCSS (BEM/IT)</li>
                 <li>Version Control: Git</li>
               </ul>
               <h5>Additional</h5>
@@ -74,8 +74,8 @@
               <li>3D modelling/printing</li>
             </ul>
           
-            <h4>Design</h4>
-            <p>I design things anywhere from flyers and posters, to bespoke web solutions. I have experience in both digital and print design, along with video editing.</p>
+            <h4>Media</h4>
+            <p>I have experience in both digital and print design, along with video editing.</p>
             <ul>
               <li>Sketch 3</li>
               <li>Photoshop</li>
@@ -86,6 +86,93 @@
 
         </div>
 
+      </article>
+    </section>
+
+    <section class="container experience"> 
+      <article class="inner_artile">
+        <h3>Experience</h3>
+
+        <article class="box">
+          <h4>Tribal Worldwide<br />
+            <span>Senior Frontend Developer | August 2017 - Present</span><br />
+            <span>Frontend Developer | July 2016 - August 2017</span></h4>
+          <p>
+            My role at Tribal encompasses a wide array of skills and responsibilities. I regularly work both independently and as part of a team, depending on the scale and requirements of the project.
+          </p>
+          <h5>Achievements</h5>
+          <ul>
+            <li>
+              Expanded our capabilities in experimental fields, such as Mixed Reality, and Physical Computing
+            </li>
+            <li>
+              Built numerous functional prototypes in quick turnarounds
+            </li>
+            <li>
+              Led major refactors on legacy sites to utilise modern design patterns and technologies
+            </li>
+            <li>
+              Led a team of developers in building a Vue/Metalsmith/Directus static-site generator with CI integration
+            </li>
+            <li>
+              Pushed best practies and agile methodologies to encourage better colaboration between teams and departments
+            </li>
+            <li>
+              Pushed process change to allow for a better personal development model within Tribal
+            </li>
+            <li>
+              Helped organise social events including parties, after-hours activities, and during-hours activities
+            </li>
+          </ul>
+        </article>
+          
+        <article class="box">
+          <h4>British Airways<br />
+            <span>Software Engineer | April 2015 - June 2016</span></h4>
+          <p>
+            The project involved working in an agile environment to re-imagine the entire booking experience of <a href="https://www.britishairways.com/en-gb/home#/" target="_blank">BA.com</a> as an Angular application.
+          </p>
+          <h5>Achievements</h5>
+          <ul>
+            <li>
+              Built and maintained a handful of reusable components for use across the company
+            </li>
+            <li>
+              Ensured quality by writing effective unit and integration tests
+            </li>
+            <li>
+              Pushed methods of effective communication and working practices to allow for better colaboration across a remote team
+            </li>
+            <li>
+              Introduced hackathons to the team, and organised a trip to one where we built an internet-connected coffee machine
+            </li>
+          </ul>
+        </article>
+
+        <article class="box">
+          <h4>SunEos<br />
+            <span>Technical Lead | October 2014 - December 2014</span></h4>
+          <p>
+            Brief stint in startup. Responsibilities there encompassed anything technical. This included mobile app development with Phonegap &amp; NFC, building dashboards, along with designing and developing the website.   
+          </p>
+        </article>
+
+        <article class="box">
+          <h4>N9 Design<br />
+            <span>Junior Designer &amp; Developer | October 2012 - June 2014</span></h4>
+          <p>
+            Built nine bespoke content-managed websites including <a href="http://n9design.com/" target="_blank">n9design.com</a>. Put onto an increasingly broad range of jobs, including artworking, e-flyers &amp; bespoke web development. Worked full time from October 2012 to August 2013, and then part time 
+            until June 2014 - parallel to final year of study.
+          </p>
+        </article>
+
+        <article class="box">
+          <h4>TermiSoc: Plymouth University Computing Society<br />
+            <span>Chairman | March 2011 - July 2013</span></h4>
+          <p>
+            Organized and ran numerous events scaling from small weekend projects to 50+ person LAN parties. Alongside these non-regular events we also ran fortnightly talks and tutorials - myself hosting some tutorials on web development. I also produced all the branding material for the society during my time.
+          </p>
+        </article>
       </article>
     </section>
 
@@ -149,6 +236,10 @@
             <h4>Mentor &amp; Volunteer<br />
               <span>UKGovHack | April 2016</span></h4>
           </article>
+          <article class="exp">
+            <h4>Mentor<br />
+              <span>Creative Mentor Network | October 2017 - March 2018</span></h4>
+          </article>
 
         </div>
       </div>
@@ -187,63 +278,6 @@
 
       <div class="clear"></div>
         
-      </article>
-    </section>
-
-    <section class="container experience"> 
-      <article class="inner_artile">
-        <h3>Experience</h3>
-
-        <article class="box">
-          <h4>Tribal Worldwide<br />
-            <span>Senior Frontend Developer | August 2017 - Present</span><br />
-            <span>Frontend Developer | July 2016 - August 2017</span></h4>
-          <p>
-            My role at Tribal encompasses a wide array of skills and responsibilities. I regularly work both independently and as part of a team, depending on the scale and requirements of the project. On a normal day, my core responsibilities involve architecting and building frontend solutions for some of our major commercial clients, along with providing support and help for much of the team. Along with this, I work in expanding our capabilities in upcoming and experimental fields, such as Virtual Reality, and Physical Computing. 
-          </p>
-        </article>
-
-          
-        <article class="box">
-          <h4>British Airways<br />
-            <span>Software Engineer | April 2015 - June 2016</span></h4>
-          <p>
-            The project involved working in an agile environment to re-create the entire booking experience of <a href="https://www.britishairways.com/en-gb/home#/" target="_blank">BA.com</a> as an Angular application. My roles included architecting robust and flexible technical solutions, building reusable bower components, along with working on various pages and functionality throughout the application. All code I've written follows strict standards, including comprehensive unit testing, end-to-end testing, and continuous integration.
-          </p>
-        </article>
-
-        <article class="box">
-          <h4>N9 Design<br />
-            <span>Junior Designer &amp; Developer | October 2012 - June 2014</span></h4>
-          <p>
-            Built nine bespoke content-managed websites including <a href="http://n9design.com/" target="_blank">n9design.com</a>. Put onto an increasingly broad range of jobs, including artworking, e-flyers &amp; bespoke web development. Worked full time from October 2012 to August 2013, and then part time 
-            until June 2014 - parallel to final year of study.
-          </p>
-        </article>
-
-        <article class="box">
-          <h4>SunEos<br />
-            <span>Technical Lead | October 2014 - December 2014</span></h4>
-          <p>
-            Brief stint in startup. Responsibilities there encompassed anything technical. This included mobile app development with Phonegap &amp; NFC, building dashboards, along with designing and developing the website.   
-          </p>
-        </article>
-
-        <article class="box">
-          <h4>TermiSoc: Plymouth University Computing Society<br />
-            <span>Chairman | March 2011 - July 2013</span></h4>
-          <p>
-            Organized and ran numerous events scaling from small weekend projects to 50+ person LAN parties. Alongside these non-regular events we also ran fortnightly talks and tutorials - myself hosting some tutorials on web development. I also produced all the branding material for the society during my time.
-          </p>
-        </article>
-
-        <article class="box">
-          <h4>Hackathons<br />
-            <span>2013 - Present</span></h4>
-          <p>
-            Hackathons are events where teams of creators are tasked with coming up with an idea and buinding it, from conception to prototype, within the space of 24, or 48 hours. At the end of this time all development must stop, and the teams are given a chance to present their creation. I'm a regular hackathon attendee, and have won a number of them, along with organising <a href="http://banterhack.com/" target="_blank">my own</a>. 
-          </p>
-        </article>
       </article>
     </section>
   
