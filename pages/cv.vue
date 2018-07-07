@@ -207,15 +207,12 @@
             <h4>Braintree &amp; Sendgrid Sponsor Prizes<br />
               <span>MLH: Hacknotts | November 2014</span></h4>
           </article>
-          
-        </div>
-        <div class="column">
-          
-
           <article class="exp">
             <h4>First Place<br />
               <span>Resin.io Xmas IoT Hackathon | December 2014</span></h4>
           </article>
+        </div>
+        <div class="column">
           <article class="exp">
             <h4>Best Technical Hack<br />
               <span>Dropbox Hackathon | January 2015</span></h4>
@@ -235,6 +232,10 @@
           <article class="exp">
             <h4>Mentor &amp; Volunteer<br />
               <span>UKGovHack | April 2016</span></h4>
+          </article>
+          <article class="exp">
+            <h4>Mentor<br />
+              <span>Railsgirls London | December 2017</span></h4>
           </article>
           <article class="exp">
             <h4>Mentor<br />
