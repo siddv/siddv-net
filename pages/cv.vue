@@ -317,7 +317,7 @@ export default {
   .container {
     max-width: 840px;
     padding-bottom: 3rem;
-    padding-top: 3rem;
+    padding-top: 2rem;
     border-bottom: 1px solid lightgray;
 
     &:last-of-type {
