@@ -46,7 +46,7 @@
             Nuxt</a>
           and 
           <a
-            href="htps://bulma.io"
+            href="https://bulma.io"
             target="_blank"
             rel="noopener">
             Bulma</a>.
