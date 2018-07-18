@@ -18,7 +18,7 @@ exports.handler = async (event, context) => {
     lowestNumber = d6s.sort().splice(0, 1);
     rollTotal = d6s.reduce((a, b) => a + b, 0);
 
-    randchar.rollDetails.push(`*${rollTotal}*: [*${d6s.join('*, *')}* ${lowestNumber.join()}]`) 
+    randchar.rollDetails.push(`*${rollTotal}*: [*${d6s.join('*, *')}*, ${lowestNumber.join()}]`) 
     randchar.rolls.push(rollTotal);
     randchar.total += rollTotal;
   }
