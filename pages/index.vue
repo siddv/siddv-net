@@ -14,7 +14,7 @@
             I'm Sidd; a creative technologist. I like creating both virtual and physical experiences, being versatile enough to tackle large and diverse parts of projects. Focusing on bringing all elements together to create a streamlined user experience.
           </p>
           <p>
-            Currently, I'm based in London working as a Senior Frontend Developer at <a href="http://www.tribalworldwide.co.uk/" target="_blank">Tribal&nbsp;Worldwide</a>. Previously an Angular Developer at <a href="http://www.ba.com/" target="_blank">British&nbsp;Airways</a>.
+            Currently, I'm based in London working as a Senior Frontend Developer at <a class="sv__light-link" href="http://www.tribalworldwide.co.uk/" target="_blank">Tribal&nbsp;Worldwide</a>. Previously an Angular Developer at <a class="sv__light-link" href="http://www.ba.com/" target="_blank">British&nbsp;Airways</a>.
           </p>
         </blockquote>
       </div>
@@ -77,6 +77,14 @@ export default {
 
 <style lang="scss">
 @import "~bulma/sass/utilities/_all.sass";
+
+a.sv__light-link {
+  color: $cyan;
+
+  &:hover{
+    color: $blue;
+  }
+}
 
 .sv__hero {
   background: url('~/assets/images/hackbox.jpg');
