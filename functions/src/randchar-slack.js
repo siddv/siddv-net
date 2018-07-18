@@ -1,4 +1,6 @@
-exports.handler =  function(event, context, callback) {
+exports.handler = async (event, context) => {
+
+  console.log('hello')
   
   const randchar = {
     total: 0,
@@ -19,13 +21,15 @@ exports.handler =  function(event, context, callback) {
     randchar.total += rollTotal;
   }
 
-  callback(null, {
+  return {
+    headers: {
+      "content-type": "application/json"
+    },
     statusCode: 200,
-    body: {
+    body: JSON.stringify({
       response_type: "in_channel",
       text: `Total: *${randchar.total}*\nRolls: *${randchar.rolls.join('*, *')}*`
-    }
-  });
+    })
+  };
 
 };
-  
