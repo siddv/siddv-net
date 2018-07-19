@@ -52,7 +52,7 @@ exports.handler = async (event, context) => {
     
     rolledCharacter = rollChar();
   
-    while(rolledCharacter.total <= min){
+    while(rolledCharacter.total <= min || rolledCharacter.rolls.filter(a => a >= 15).length < 2){
       rolledCharacter = rollChar();
     }
 
