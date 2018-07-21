@@ -15,7 +15,6 @@
             <div class="column cv-links">
               <a href="/">Siddv.net</a><br />
               <a href="mailto:me@siddv.net">me@siddv.net</a><br/>
-              <a href="tel:+447824344852">+44 (0) 7824 344 852</a>
             </div>
           </div>
           <p>
