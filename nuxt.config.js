@@ -42,5 +42,8 @@ module.exports = {
       }
     }
   },
-  plugins: ['~/plugins/custom']
+  plugins: [
+    '~/plugins/custom',
+    { src: '~/plugins/ga.js', ssr: false }
+  ]
 }
