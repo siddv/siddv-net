@@ -42,22 +42,19 @@
             <div>
               <h5>Core</h5>
               <ul>
-                <li>JavaScript: Vue/Angular/Polymer</li>
-                <li>Testing: Jasmine/Karma/Selenium</li>
-                <li>Taskrunners: Gulp/Grunt</li>
+                <li>JavaScript: Vue/Angular/Polymer/React</li>
+                <li>Testing: Jest</li>
+                <li>Taskrunners: Gulp</li>
                 <li>Semantic HTML</li>
-                <li>Responsive CSS/SCSS (BEM/IT)</li>
+                <li>Responsive CSS/SCSS (BEM/IT/CSS in JS)</li>
                 <li>Version Control: Git</li>
               </ul>
               <h5>Additional</h5>
               <ul>
                 <li>Node: Express</li>
-                <li>Continious Integration: Jenkins</li>
+                <li>Continious Integration: CircleCI</li>
                 <li>Mobile: Phoengap/Ionic</li>
                 <li>Websockets/MQTT/Pusher</li>
-                <li>Python</li>
-                <li>PHP</li>
-                <li>MySQL</li>
               </ul>
               
             </div>
@@ -67,7 +64,7 @@
             <h4>Physical Computing</h4>
             <p>I'm constantly looking for ways to create fun projects with hardware that interact and communicate with my web applications. Internet of things and whatnot.</p>
             <ul>
-              <li>Intel Edison + Galileo</li>
+              <li>Intel Edison</li>
               <li>Raspberry Pi</li>
               <li>Extensive Arduino</li>
               <li>3D modelling/printing</li>
@@ -76,7 +73,7 @@
             <h4>Media</h4>
             <p>I have experience in both digital and print design, along with video editing.</p>
             <ul>
-              <li>Sketch 3</li>
+              <li>Sketch</li>
               <li>Photoshop</li>
               <li>InDesign</li>
               <li>Premiere Pro</li>
@@ -91,10 +88,15 @@
     <section class="container experience"> 
       <article class="inner_artile">
         <h3>Experience</h3>
+        
+        <article class="box">
+          <h4>Idean<br />
+            <span>Senior Frontend Developer | November 2018 - Present</span></h4>
+        </article>
 
         <article class="box">
           <h4>Tribal Worldwide<br />
-            <span>Senior Frontend Developer | August 2017 - Present</span><br />
+            <span>Senior Frontend Developer | August 2017 - September 2018</span><br />
             <span>Frontend Developer | July 2016 - August 2017</span></h4>
           <p>
             My role at Tribal encompasses a wide array of skills and responsibilities. I regularly work both independently and as part of a team, depending on the scale and requirements of the project.
