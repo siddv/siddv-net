@@ -105,4 +105,11 @@ export default {
   .sv__social-image {
     margin: 5px;
   }
+
+  @media print { 
+    .navbar,
+    .footer {
+      display: none;
+    }
+  }
 </style>
