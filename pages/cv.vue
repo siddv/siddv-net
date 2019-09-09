@@ -18,7 +18,7 @@
             </div>
           </div>
           <p>
-            I'm Sidd; a creative technologist. I like creating both virtual and physical experiences, being versatile enough to tackle large and diverse parts of projects. Focusing on bringing all elements together to create a streamlined user experience.
+            I'm Sidd; a technologist. I like creating both virtual and physical experiences, being versatile enough to tackle large and diverse parts of projects. Focusing on bringing all elements together to create a streamlined user experience.
           </p>
         </div>
 
@@ -90,8 +90,23 @@
         <h3>Experience</h3>
         
         <article class="box">
-          <h4>Idean<br />
+          <h4>Idean UK<br />
             <span>Senior Frontend Developer | November 2018 - Present</span></h4>
+          <p>
+            At Idean I focus on working on our small number of technical projects to ensure that we deliver a solution that's right for the client.
+          </p>
+          <h5>Achievements</h5>
+          <ul>
+            <li>
+              Set up private NPM for building and sharing packages across projects
+            </li>
+            <li>
+              Maintain and build new features on our existing MVNO projects
+            </li>
+            <li>
+              Help organise and run public events at our offices, as well as our internal tech catchups
+            </li>
+          </ul>
         </article>
 
         <article class="box">
@@ -99,7 +114,7 @@
             <span>Senior Frontend Developer | August 2017 - September 2018</span><br />
             <span>Frontend Developer | July 2016 - August 2017</span></h4>
           <p>
-            My role at Tribal encompasses a wide array of skills and responsibilities. I regularly work both independently and as part of a team, depending on the scale and requirements of the project.
+            My role at Tribal encompassed a wide array of skills and responsibilities. I regularly worked both independently and as part of a team, depending on the scale and requirements of the project.
           </p>
           <h5>Achievements</h5>
           <ul>
