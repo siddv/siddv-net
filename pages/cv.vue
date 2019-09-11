@@ -51,7 +51,7 @@
               </ul>
               <h5>Additional</h5>
               <ul>
-                <li>Node: Express</li>
+                <li>Node: Express/Lambda</li>
                 <li>Continious Integration: CircleCI</li>
                 <li>Mobile: Phoengap/Ionic</li>
                 <li>Websockets/MQTT/Pusher</li>
@@ -98,10 +98,13 @@
           <h5>Achievements</h5>
           <ul>
             <li>
-              Set up private NPM for building and sharing packages across projects
+              Set up private NPM to enable building and sharing packages across projects
             </li>
             <li>
-              Maintain and build new features on our existing MVNO projects
+              Maintain and build new features on our existing MVNO projects using React, including adding tests
+            </li>
+            <li>
+              Built a Contentful-driven static site generator using Next and CD with Circle CI and Azure
             </li>
             <li>
               Help organise and run public events at our offices, as well as our internal tech catchups
