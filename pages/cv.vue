@@ -51,7 +51,7 @@
               </ul>
               <h5>Additional</h5>
               <ul>
-                <li>Node: Express</li>
+                <li>Node: Express/Lambda</li>
                 <li>Continious Integration: CircleCI</li>
                 <li>Mobile: Phoengap/Ionic</li>
                 <li>Websockets/MQTT/Pusher</li>
@@ -90,8 +90,28 @@
         <h3>Experience</h3>
         
         <article class="box">
-          <h4>Idean UK<br />
-            <span>Senior Frontend Developer | November 2018 - Present</span></h4>
+          <header class="experience-header">
+            <h4>Idean UK<br />
+              <span>Senior Frontend Developer | November 2018 - Present</span>
+            </h4>
+            <div class="tags">
+              <span class="tag">
+                React
+              </span>
+              <span class="tag">
+                Next
+              </span>
+              <span class="tag">
+                Contentful
+              </span>
+              <span class="tag">
+                GraphQL
+              </span>
+              <span class="tag">
+                Netlify
+              </span>
+            </div>
+          </header>
           <p>
             At Idean I focus on working on our small number of technical projects to ensure that we deliver a solution that's right for the client.
           </p>
@@ -101,7 +121,7 @@
               Set up private NPM for building and sharing packages across projects
             </li>
             <li>
-              Maintain and build new features on our existing MVNO projects
+              Maintain and build new features on our live MVNO projects
             </li>
             <li>
               Help organise and run public events at our offices, as well as our internal tech catchups
@@ -110,9 +130,32 @@
         </article>
 
         <article class="box">
-          <h4>Tribal Worldwide<br />
-            <span>Senior Frontend Developer | August 2017 - September 2018</span><br />
-            <span>Frontend Developer | July 2016 - August 2017</span></h4>
+          <header class="experience-header">
+            <h4>Tribal Worldwide<br />
+              <span>Senior Frontend Developer | August 2017 - September 2018</span><br />
+              <span>Frontend Developer | July 2016 - August 2017</span>
+            </h4>
+            <div class="tags">
+              <span class="tag">
+                Vue
+              </span>
+              <span class="tag">
+                Nuxt
+              </span>
+              <span class="tag">
+                Directus
+              </span>
+              <span class="tag">
+                React
+              </span>
+              <span class="tag">
+                Polymer
+              </span>
+              <span class="tag">
+                AWS Lambda
+              </span>
+            </div>
+          </header>
           <p>
             My role at Tribal encompassed a wide array of skills and responsibilities. I regularly worked both independently and as part of a team, depending on the scale and requirements of the project.
           </p>
@@ -348,7 +391,14 @@ export default {
   .experience {
     h4 {
       margin-top: 0;
+      margin-bottom: 0;
     }
+  }
+  
+  .experience-header {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 0.8em;
   }
 
   h1 span {
@@ -364,6 +414,10 @@ export default {
   @include tablet {
     .cv-links {
       text-align: right;
+    }
+      
+    .experience-header {
+      flex-direction: row;
     }
   }
 }
