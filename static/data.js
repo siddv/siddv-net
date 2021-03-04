@@ -3,7 +3,7 @@ module.exports = {
     {
       title: 'Mobius',
       img: require('~/assets/images/portfolio/mobius@2x.png'),
-      description: `<a href="http://mobius.siddv.net/" target="_blank">Mobius</a> is a framework for creating wireless &ldquo;Internet of Things&rdquo; Ardunio projects with web-based control. Mobius generates both, the web-based control and the Ardunio code, allowing you to create huge portions of projects without writing a single line of code.`,
+      description: `<a href="/projects/mobius" target="_blank">Mobius</a> is a framework for creating wireless &ldquo;Internet of Things&rdquo; Ardunio projects with web-based control. Mobius generates both, the web-based control and the Ardunio code, allowing you to create huge portions of projects without writing a single line of code.`,
       cta: {
         link: '/projects/mobius'
       }
