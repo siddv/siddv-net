@@ -91,7 +91,8 @@
         
         <article class="box">
           <h4>Idean UK<br />
-            <span>Senior Frontend Developer | November 2018 - Present</span></h4>
+            <span>Lead Developer | January 2020 - Present</span><br />
+            <span>Senior Frontend Developer | November 2018 - December 2020</span></h4>
           <p>
             At Idean I focus on working on our small number of technical projects to ensure that we deliver a solution that's right for the client.
           </p>
