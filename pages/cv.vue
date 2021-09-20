@@ -32,10 +32,10 @@
 
         <h3>Skills</h3>
         <p>
-          I enjoy solving practical problems, and try ensure solutions I work on solve real challanges that people actually face, while keeping technical complexity as managable as possible. I understand in the importance of putting people at the centre of everything I create, or work with others to create.
+          I enjoy solving practical problems, and working on solutions to solve real challanges that people actually face, while keeping technical complexity as managable as possible. I understand in the importance of putting people at the centre of everything I create, and work with others to create.
         </p>
         <p>
-          I also love learning and challenging myself. I consider myself a pretty fast learner, and am pretty confident in picking up new languages and skills that pique my interest. You can see some of my side projects on <a href="https://github.com/siddv" target="_blank">my GitHub</a>.
+          I also love learning and challenging myself. I consider myself a fast learner, and am confident in picking up new languages and skills that pique my interest. You can see some of my side projects on <a href="https://github.com/siddv" target="_blank">my GitHub</a>.
         </p>
        
 
@@ -98,7 +98,7 @@
             <span>Lead Developer | January 2021 - Present (Idean UK, now frog)</span><br />
             <span>Senior Frontend Developer | November 2018 - December 2020 (Idean UK)</span></h4>
           <p>
-            At frog I balance my client work with strategic work that helps define what technology at frog UK looks like, and keeps our tech department progressing forward. I regularly work with our leadership team, and other areas of the business to define scope of inbound work, and outbound responses to RFPs.
+            At frog I balance my client work with strategic work that helps define what technology at frog UK looks like, and keeps our tech department progressing forward. I regularly work with our leadership team, and other areas of the business to define the scope of inbound work, and outbound responses to RFPs.
           </p>
           <h5>Achievements</h5>
           <ul>
@@ -106,10 +106,10 @@
               Led early-stage talks, as well as the build, launch, and ongoing maintenance of internal initiatives: <a href="https://cardsforhumanity.idean.com/" target="_blank">Cards&nbsp;for&nbsp;Humanity</a>, and <a href="https://universalscore.global/" target="_blank">The&nbsp;Universal&nbsp;Score</a>
             </li>
             <li>
-              Heavily contributed to, and practically implemented various alternative/emerging technologies we discuss in our tech catchups, including sustainable technology
+              Heavily contributed to the research and implementation of alternative/emerging technologies we discuss in our tech catchups, including sustainable technology
             </li>
             <li>
-              Working wth a few other folks in two working groups, one promoting the incorporation inclusive design in as many projects as possible, and another sustainability in our operation as a business
+              Actively working wth a few other folks in two working groups, one promoting the incorporation inclusive design in as many projects as possible, and another sustainability in our operation as a business
             </li>          
             <li>
               Launched <a href="https://www.donut.com/" target="_blank">Donut</a> on Slack to help people connect during the pandemic 
@@ -121,13 +121,13 @@
               Worked with <a href="https://www.capgemini.com/gb-en/service/applied-innovation-exchange/" target="_blank">AIE</a> to help build interfaces and work on the phone app for an experimental retail space, <a href="https://labs.thedrum.com/cornershop" target="_blank">Cornershop</a>
             </li>
             <li>
-              Set up and currently manage many of our internal tools including Github (teams, actions, and packages), Firebase, and Netlify
+              Set up and currently manage many of our internal tools including GitHub (teams, actions, and packages), Firebase, and Netlify
             </li>
             <li>
               Led the migration of content from <a href="https://www.adaptivelab.com/" target="_blank">adaptivelab.com</a> to <a href="https://www.idean.com/" target="_blank">idean.com</a>, and am currently aiding in the migration from idean.com to <a href="https://www.frogdesign.com/" target="_blank">frogdesign.com</a>
             </li>
             <li>
-              Help organise and run public events at our offices, as well as our fortnightly internal tech catchups
+              Helping organise and run public events at our offices, as well as our fortnightly internal tech catchups
             </li>
           </ul>
         </article>
