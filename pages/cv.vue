@@ -32,19 +32,22 @@
 
         <h3>Skills</h3>
         <p>
-          I love learning and challenging myself. I consider myself a pretty fast learner, and am pretty confident in picking up new languages and skills. You can see some of my side projects on <a href="https://github.com/siddv" target="_blank">my GitHub</a>.
+          I enjoy solving practical problems, and try ensure solutions I work on solve real challanges that people actually face, while trying to keep technical complexity as managable as possible. I have a strong understanding in the importance of inclusive design, as well as sustainability.
         </p>
+        <p>
+          I also love learning and challenging myself. I consider myself a pretty fast learner, and am pretty confident in picking up new languages and skills that pique my interest. You can see some of my side projects on <a href="https://github.com/siddv" target="_blank">my GitHub</a>.
+        </p>
+       
 
-        <div class="columns">
+        <div class="columns">          
 
           <div class="column">
             <h4>Web Development</h4>
             <div>
               <h5>Core</h5>
               <ul>
-                <li>JavaScript: Vue/Angular/Polymer/React</li>
-                <li>Testing: Jest</li>
-                <li>Taskrunners: Gulp</li>
+                <li>JavaScript: Vue/React/Angular/Polymer</li>
+                <li>Testing: Cypress/Jest</li>
                 <li>Semantic HTML</li>
                 <li>Responsive CSS/SCSS (BEM/IT/CSS in JS)</li>
                 <li>Version Control: Git</li>
@@ -52,9 +55,10 @@
               <h5>Additional</h5>
               <ul>
                 <li>Node: Express/Lambda</li>
-                <li>Continious Integration: CircleCI</li>
-                <li>Mobile: Phoengap/Ionic</li>
+                <li>Continious Integration: Github Actions</li>
+                <li>Mobile: React Native/Ionic</li>
                 <li>Websockets/MQTT/Pusher</li>
+                <li>Cloud: Firebase/Netlify</li>
               </ul>
               
             </div>
@@ -62,20 +66,20 @@
           
           <div class="column">
             <h4>Physical Computing</h4>
-            <p>I'm constantly looking for ways to create fun projects with hardware that interact and communicate with my web applications. Internet of things and whatnot.</p>
+            <p>I enjoy creating fun projects with hardware, sometimes ones that are even useful.</p>
             <ul>
-              <li>Intel Edison</li>
               <li>Raspberry Pi</li>
               <li>Extensive Arduino</li>
               <li>3D modelling/printing</li>
+              <li>Intel Edison</li>
             </ul>
           
             <h4>Media</h4>
-            <p>I have experience in both digital and print design, along with video editing.</p>
+            <p>While not my core skillset, I have experience in both digital and print design, along with video editing.</p>
             <ul>
+              <li>Figma</li>
               <li>Sketch</li>
               <li>Photoshop</li>
-              <li>InDesign</li>
               <li>Premiere Pro</li>
             </ul>
           </div>
@@ -90,25 +94,37 @@
         <h3>Experience</h3>
         
         <article class="box">
-          <h4>Idean UK<br />
-            <span>Lead Developer | January 2020 - Present</span><br />
-            <span>Senior Frontend Developer | November 2018 - December 2020</span></h4>
+          <h4>frog / Idean UK<br />
+            <span>Lead Developer | January 2021 - Present (Idean UK, now frog)</span><br />
+            <span>Senior Frontend Developer | November 2018 - December 2020 (Idean UK)</span></h4>
           <p>
-            At Idean I focus on working on our small number of technical projects to ensure that we deliver a solution that's right for the client.
+            At frog I balance my client work with strategic work that helps define what technology at frog UK looks like, and keeps our tech department progressing forward. I regularly work with our leadership team, and other areas of the business to define scope of inbound work, and outbound responses to RFPs.
           </p>
           <h5>Achievements</h5>
           <ul>
             <li>
-              Set up private NPM to enable building and sharing packages across projects
+              Led early-stage talks, as well as the build, launch, and ongoing maintenance of internal initiatives: <a href="https://cardsforhumanity.idean.com/" target="_blank">Cards&nbsp;for&nbsp;Humanity</a>, and <a href="https://universalscore.global/" target="_blank">The&nbsp;Universal&nbsp;Score</a>
             </li>
             <li>
-              Maintain and build new features on our existing MVNO projects using React, including adding tests
+              Heavily contributed to, and practically implemented various alternative/emerging technologies we discuss in our tech catchups, including sustainable technology
             </li>
             <li>
-              Built a Contentful-driven static site generator using Next and CD with Circle CI and Azure
+              I work wth a few other folks on two working groups, one promoting the incorporation inclusive design in as many projects as possible, and another sustainability in our operation as a business
+            </li>          
+            <li>
+              Launched <a href="https://www.donut.com/" target="_blank">Donut</a> on Slack to help people connect during the pandemic 
             </li>
             <li>
-              Help organise and run public events at our offices, as well as our internal tech catchups
+              Worked with <a href="https://www.capgemini.com/gb-en/service/applied-innovation-exchange/" target="_blank">AIE</a> to helpe build interfaces and work on the phone app for an experimental retail space, <a href="https://labs.thedrum.com/cornershop" target="_blank">Cornershop</a>
+            </li>
+            <li>
+              Set up and currently manage many of our internal tools including Github (teams, actions, and packages), Firebase, Netlify, as well as idean.com
+            </li>
+            <li>
+              Led the migration of content from <a href="https://www.adaptivelab.com/" target="_blank">adaptivelab.com</a> to <a href="https://www.idean.com/" target="_blank">idean.com</a>, and am currently aiding in the migration from <a href="https://www.idean.com/" target="_blank">idean.com</a> to <a href="https://www.frogdesign.com/" target="_blank">frogdesign.com</a>
+            </li>
+            <li>
+              Help organise and run public events at our offices, as well as our fortnightly internal tech catchups
             </li>
           </ul>
         </article>
@@ -129,7 +145,7 @@
               Built numerous functional prototypes in quick turnarounds
             </li>
             <li>
-              Led major refactors on legacy sites to utilise modern design patterns and technologies
+              Led major refactors on <a href="https://www.volkswagen.co.uk/" target="_blank">volkswagen.co.uk</a> to utilise modern design patterns and technologies
             </li>
             <li>
               Led a team of developers in building a Vue/Metalsmith/Directus static-site generator with CI integration
@@ -261,6 +277,10 @@
             <h4>Mentor<br />
               <span>Creative Mentor Network | October 2017 - March 2018</span></h4>
           </article>
+           <article class="exp">
+            <h4>Mentor<br />
+              <span>YSYS | May 2021 - August 2021</span></h4>
+          </article>
 
         </div>
       </div>
@@ -287,7 +307,7 @@
       <div class="half lastof">
         
         <article class="exp">
-          <h4>BSc (hons) Mechanical Design and Manufacture<br />
+          <h4>[Unfinished] BSc (hons) Mechanical Design and Manufacture<br />
             <span>Unfinished | September 2009 - July 2010</span></h4>
         </article>
         <article class="exp">
