@@ -3,7 +3,7 @@ module.exports = {
     {
       title: 'Cards for Humanity',
       img: require('~/assets/images/portfolio/cfh@2x.jpg'),
-      description: `I'm the tech lead for <a href="https://cardsforhumanity.idean.com/" target="_blank">Cards for Humanity</a>, an empathy tool that helps product folk, designers, and developers create more inclusively. It allows players to discover combinations of persona and trait cards. The goal is then for those players try and understand how your product/service might work for that person. We've been featured on <a href="https://www.figma.com/community/plugin/896347534161970744/Cards-for-Humanity" target="_blank">Figma</a>, and have won awards from <a href="https://www.idean.com/spotlight/cards-for-humanity-triumphs-at-the-drum-design-awards" target="_blank">The Drum</a>, and <a href="https://designawards.core77.com/Interaction/106530/Cards-for-Humanity" target="_blank">core77</a>.`,
+      description: `I'm the tech lead for <a href="https://cardsforhumanity.idean.com/" target="_blank">Cards for Humanity</a>, an empathy tool that helps product folk, designers, and developers create more inclusively. It allows players to discover combinations of persona and trait cards. The goal is then for those players try and understand how your product/service might work for that person. We've been featured on <a href="https://www.figma.com/blog/behind-the-plugin-cards-for-humanity/" target="_blank">Figma</a>, and have won awards from <a href="https://www.idean.com/spotlight/cards-for-humanity-triumphs-at-the-drum-design-awards" target="_blank">The Drum</a>, and <a href="https://designawards.core77.com/Interaction/106530/Cards-for-Humanity" target="_blank">core77</a>.`,
       cta: {
         link: 'https://cardsforhumanity.idean.com/',
         external: true
@@ -12,18 +12,10 @@ module.exports = {
     {
       title: 'Via Outlets',
       img: require('~/assets/images/portfolio/via@2x.jpg'),
-      description: `I led a team of three other developers over two months to build a solution that would allow the rollout of eleven different outlet websites, using a single codebase and deployment pipeline connected to eleven instances of an identical CMS. Examples include <a href="https://hedefashionoutlet.se/" target="_blank">Hede</a>, and <a href="https://bataviastad.nl/" target="_blank">Batavia Stad</a>.`,
+      description: `I led a team of three other developers over two months to build a solution that would allow the rollout of 11 different outlet websites, using a single codebase and deployment pipeline connected to 11 instances of an identical CMS. This also incorporated prerendering, internationalisation, and the ability to add future instances (12, 13+) with ease if and when required. Examples include <a href="https://hedefashionoutlet.se/" target="_blank">Hede</a>, <a href="https://bataviastad.nl/" target="_blank">Batavia&nbsp;Stad</a>, and <a href="https://zweibrueckenfashionoutlet.com/" target="_blank">Zweibruecken</a>.`,
       cta: {
         link: 'https://www.viaoutlets.com/portfolio/#main',
         external: true
-      }
-    },
-    {
-      title: 'Mobius',
-      img: require('~/assets/images/portfolio/mobius@2x.png'),
-      description: `<a href="/projects/mobius" target="_blank">Mobius</a> is a framework for creating wireless &ldquo;Internet of Things&rdquo; Ardunio projects with web-based control. Mobius generates both, the web-based control and the Ardunio code, allowing you to create huge portions of projects without writing a single line of code.`,
-      cta: {
-        link: '/projects/mobius'
       }
     },
     {
@@ -35,9 +27,17 @@ module.exports = {
       }
     },
     {
+      title: 'Mobius',
+      img: require('~/assets/images/portfolio/mobius@2x.png'),
+      description: `My final-year university project, Mobius, was a framework for creating wireless &ldquo;Internet of Things&rdquo; Ardunio projects with web-based control. Mobius generated both, the web-based control and the Ardunio code. Acting as a GUI tool, it allowed you to create huge portions of a DIY home automation flow without writing any code.`,
+      cta: {
+        link: '/projects/mobius'
+      }
+    },
+    {
       title: 'British Airways',
       img: require('~/assets/images/portfolio/british-airways@2x.png'),
-      description: `I worked at British Airways on the team responsible for feature delivery on the new ba.com booking process as well as building sharable components. My main contributions were the ba.com search bar and the design of IVSG, our sharable design library.`,
+      description: `I worked at British Airways on the team responsible for feature delivery on the new ba.com booking process as well as building sharable components. My main contributions were the ba.com search bar and the technical architecture of IVSG, our sharable design library.`,
       cta: {
         link: 'https://www.britishairways.com/en-gb/home#/',
         external: true

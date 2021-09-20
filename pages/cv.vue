@@ -32,7 +32,7 @@
 
         <h3>Skills</h3>
         <p>
-          I enjoy solving practical problems, and try ensure solutions I work on solve real challanges that people actually face, while trying to keep technical complexity as managable as possible. I have a strong understanding in the importance of inclusive design, as well as sustainability.
+          I enjoy solving practical problems, and try ensure solutions I work on solve real challanges that people actually face, while keeping technical complexity as managable as possible. I understand in the importance of putting people at the centre of everything I create, or work with others to create.
         </p>
         <p>
           I also love learning and challenging myself. I consider myself a pretty fast learner, and am pretty confident in picking up new languages and skills that pique my interest. You can see some of my side projects on <a href="https://github.com/siddv" target="_blank">my GitHub</a>.
@@ -109,19 +109,22 @@
               Heavily contributed to, and practically implemented various alternative/emerging technologies we discuss in our tech catchups, including sustainable technology
             </li>
             <li>
-              I work wth a few other folks on two working groups, one promoting the incorporation inclusive design in as many projects as possible, and another sustainability in our operation as a business
+              Working wth a few other folks in two working groups, one promoting the incorporation inclusive design in as many projects as possible, and another sustainability in our operation as a business
             </li>          
             <li>
               Launched <a href="https://www.donut.com/" target="_blank">Donut</a> on Slack to help people connect during the pandemic 
             </li>
             <li>
-              Worked with <a href="https://www.capgemini.com/gb-en/service/applied-innovation-exchange/" target="_blank">AIE</a> to helpe build interfaces and work on the phone app for an experimental retail space, <a href="https://labs.thedrum.com/cornershop" target="_blank">Cornershop</a>
+              Introduced and implemented the concept of <a href="https://humanstxt.org/"  target="_blank">humans.txt</a> for our own-brand, and hopefully commercial, projects. <a href="https://cardsforhumanity.idean.com/humans.txt" target="_blank">Example on Cards for Humanity</a>
             </li>
             <li>
-              Set up and currently manage many of our internal tools including Github (teams, actions, and packages), Firebase, Netlify, as well as idean.com
+              Worked with <a href="https://www.capgemini.com/gb-en/service/applied-innovation-exchange/" target="_blank">AIE</a> to help build interfaces and work on the phone app for an experimental retail space, <a href="https://labs.thedrum.com/cornershop" target="_blank">Cornershop</a>
             </li>
             <li>
-              Led the migration of content from <a href="https://www.adaptivelab.com/" target="_blank">adaptivelab.com</a> to <a href="https://www.idean.com/" target="_blank">idean.com</a>, and am currently aiding in the migration from <a href="https://www.idean.com/" target="_blank">idean.com</a> to <a href="https://www.frogdesign.com/" target="_blank">frogdesign.com</a>
+              Set up and currently manage many of our internal tools including Github (teams, actions, and packages), Firebase, and Netlify
+            </li>
+            <li>
+              Led the migration of content from <a href="https://www.adaptivelab.com/" target="_blank">adaptivelab.com</a> to <a href="https://www.idean.com/" target="_blank">idean.com</a>, and am currently aiding in the migration from idean.com to <a href="https://www.frogdesign.com/" target="_blank">frogdesign.com</a>
             </li>
             <li>
               Help organise and run public events at our offices, as well as our fortnightly internal tech catchups
@@ -247,12 +250,12 @@
             <h4>First Place<br />
               <span>Resin.io Xmas IoT Hackathon | December 2014</span></h4>
           </article>
-        </div>
-        <div class="column">
           <article class="exp">
             <h4>Best Technical Hack<br />
               <span>Dropbox Hackathon | January 2015</span></h4>
           </article>
+        </div>
+        <div class="column">
           <article class="exp">
             <h4>Third Place<br />
               <span>PayPal BattleHack | April 2015</span></h4>
