@@ -32,7 +32,7 @@
 
         <h3>Skills</h3>
         <p>
-          I enjoy solving practical problems, and working on solutions to solve real challanges that people actually face, while keeping technical complexity as managable as possible. I understand in the importance of putting people at the centre of everything I create, and work with others to create.
+          I enjoy solving practical problems, and working on solutions to real challanges that people actually face, while keeping technical complexity as managable as possible. I understand in the importance of putting people at the centre of everything I create, and work with others to create.
         </p>
         <p>
           I also love learning and challenging myself. I consider myself a fast learner, and am confident in picking up new languages and skills that pique my interest. You can see some of my side projects on <a href="https://github.com/siddv" target="_blank">my GitHub</a>.
