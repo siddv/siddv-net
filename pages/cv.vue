@@ -18,7 +18,7 @@
             </div>
           </div>
           <p>
-            I'm Sidd; a technologist. I like creating both virtual and physical experiences, being versatile enough to tackle large and diverse parts of projects. Focusing on bringing all elements together to create a streamlined user experience.
+            I'm Sidd; a technologist. I like creating both virtual and physical experiences, being versatile enough to tackle large and diverse parts of projects. Focusing on bringing all elements together to create streamlined and enjoyable user experiences.
           </p>
         </div>
 
@@ -32,7 +32,7 @@
 
         <h3>Skills</h3>
         <p>
-          I enjoy solving practical problems, and working on solutions to real challanges that people actually face, while keeping technical complexity as managable as possible. I understand in the importance of putting people at the centre of everything I create, and work with others to create.
+          I enjoy conceptualising and creating solutions to challanges that people face, while keeping technical complexity as managable as possible. I understand in the importance of putting people at the centre of everything I create, and work with others to create.
         </p>
         <p>
           I also love learning and challenging myself. I consider myself a fast learner, and am confident in picking up new languages and skills that pique my interest. You can see some of my side projects on <a href="https://github.com/siddv" target="_blank">my GitHub</a>.
@@ -42,11 +42,11 @@
         <div class="columns">          
 
           <div class="column">
-            <h4>Web Development</h4>
+            <h4>Development</h4>
             <div>
               <h5>Core</h5>
               <ul>
-                <li>JavaScript: Vue/React/Angular/Polymer</li>
+                <li>JavaScript: Vue/React</li>
                 <li>Testing: Cypress/Jest</li>
                 <li>Semantic HTML</li>
                 <li>Responsive CSS/SCSS (BEM/IT/CSS in JS)</li>
@@ -59,6 +59,7 @@
                 <li>Mobile: React Native/Ionic</li>
                 <li>Websockets/MQTT/Pusher</li>
                 <li>Cloud: Firebase/Netlify</li>
+                <li>Games: Unity</li>
               </ul>
               
             </div>
@@ -70,8 +71,8 @@
             <ul>
               <li>Raspberry Pi</li>
               <li>Extensive Arduino</li>
-              <li>3D modelling/printing</li>
-              <li>Intel Edison</li>
+              <li>3D modelling/printing (CAD/CAM)</li>
+              <li>Hardware hacking</li>
             </ul>
           
             <h4>Media</h4>
