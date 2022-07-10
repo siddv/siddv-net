@@ -96,7 +96,7 @@
         
         <article class="box">
           <h4>frog / Idean UK<br />
-            <span>Lead Developer | January 2021 - Present (Idean UK, now frog)</span><br />
+            <span>Lead technologist | January 2021 - Present (Idean UK, now frog)</span><br />
             <span>Senior Frontend Developer | November 2018 - December 2020 (Idean UK)</span></h4>
           <p>
             At frog I balance my client work with strategic work that helps define what technology at frog UK looks like, and keeps our tech department progressing forward. I regularly work with our leadership team, and other areas of the business to define the scope of inbound work, and outbound responses to RFPs.
