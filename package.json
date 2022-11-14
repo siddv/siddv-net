@@ -16,7 +16,7 @@
   "dependencies": {
     "bulma": "^0.7.1",
     "netlify-lambda": "^0.4.0",
-    "nuxt": "^1.0.0"
+    "nuxt": "^2.15.8"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.1",
