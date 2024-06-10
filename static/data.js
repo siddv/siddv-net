@@ -3,9 +3,9 @@ module.exports = {
     {
       title: 'Cards for Humanity',
       img: require('~/assets/images/portfolio/cfh@2x.jpg'),
-      description: `I'm the tech lead for <a href="https://cardsforhumanity.idean.com/" target="_blank">Cards for Humanity</a>, an empathy tool that helps product folk, designers, and developers create more inclusively. It allows players to discover combinations of persona and trait cards. The goal is then for those players try and understand how their product/service might work for that person. We've been featured on <a href="https://www.figma.com/blog/behind-the-plugin-cards-for-humanity/" target="_blank">Figma</a>, and have won awards from <a href="https://www.idean.com/spotlight/cards-for-humanity-triumphs-at-the-drum-design-awards" target="_blank">The Drum</a>, and <a href="https://designawards.core77.com/Interaction/106530/Cards-for-Humanity" target="_blank">core77</a>.`,
+      description: `I'm the tech lead for <a href="https://cardsforhumanity.frog.co/" target="_blank">Cards for Humanity</a>, an empathy tool that helps product folk, designers, and developers create more inclusively. It allows players to discover combinations of persona and trait cards. The goal is then for those players try and understand how their product/service might work for that person. We've been featured on <a href="https://www.figma.com/blog/behind-the-plugin-cards-for-humanity/" target="_blank">Figma</a>, and have won awards from <a href="https://www.idean.com/spotlight/cards-for-humanity-triumphs-at-the-drum-design-awards" target="_blank">The Drum</a>, and <a href="https://designawards.core77.com/Interaction/106530/Cards-for-Humanity" target="_blank">core77</a>.`,
       cta: {
-        link: 'https://cardsforhumanity.idean.com/',
+        link: 'https://cardsforhumanity.frog.co/',
         external: true
       }
     },
