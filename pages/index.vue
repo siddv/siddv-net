@@ -14,7 +14,7 @@
             I'm Sidd; a technologist. I like creating both virtual and physical experiences, being versatile enough to tackle large and diverse parts of projects. Focusing on bringing all elements together to create a streamlined user experience.
           </p>
           <p>
-            Currently, I'm based in London working as a Lead Developer at <a class="sv__light-link" href="https://www.frogdesign.com/" target="_blank" rel="noopener">frog</a>. Previously at <a class="sv__light-link" href="http://www.tribalworldwide.co.uk/" target="_blank"  rel="noopener">Tribal&nbsp;Worldwide</a>, and <a class="sv__light-link" href="http://www.ba.com/" target="_blank">British&nbsp;Airways</a>.
+            Currently, I'm based in London working as a Lead Developer at <a class="sv__light-link" href="https://www.frog.co/" target="_blank" rel="noopener">frog</a>. Previously at <a class="sv__light-link" href="http://www.tribalworldwide.co.uk/" target="_blank"  rel="noopener">Tribal&nbsp;Worldwide</a>, and <a class="sv__light-link" href="http://www.ba.com/" target="_blank">British&nbsp;Airways</a>.
           </p>
         </blockquote>
       </div>
