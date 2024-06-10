@@ -104,7 +104,7 @@
           <h5>Achievements</h5>
           <ul>
             <li>
-              Led early-stage talks, as well as the build, launch, and ongoing maintenance of internal initiatives: <a href="https://cardsforhumanity.idean.com/" target="_blank">Cards&nbsp;for&nbsp;Humanity</a>, and <a href="https://universalscore.global/" target="_blank">The&nbsp;Universal&nbsp;Score</a>
+              Led early-stage talks, as well as the build, launch, and ongoing maintenance of internal initiatives: <a href="https://cardsforhumanity.frog.co/" target="_blank">Cards&nbsp;for&nbsp;Humanity</a>, and <a href="https://universalscore.global/" target="_blank">The&nbsp;Universal&nbsp;Score</a>
             </li>
             <li>
               Heavily contributed to the research and implementation of alternative/emerging technologies we discuss in our tech catchups, including sustainable technology
@@ -116,7 +116,7 @@
               Launched <a href="https://www.donut.com/" target="_blank">Donut</a> on Slack to help people connect during the pandemic 
             </li>
             <li>
-              Introduced and implemented the concept of <a href="https://humanstxt.org/"  target="_blank">humans.txt</a> for our own-brand, and hopefully commercial, projects. <a href="https://cardsforhumanity.idean.com/humans.txt" target="_blank">Example on Cards for Humanity</a>
+              Introduced and implemented the concept of <a href="https://humanstxt.org/"  target="_blank">humans.txt</a> for our own-brand, and hopefully commercial, projects. <a href="https://cardsforhumanity.frog.co/humans.txt" target="_blank">Example on Cards for Humanity</a>
             </li>
             <li>
               Worked with <a href="https://www.capgemini.com/gb-en/service/applied-innovation-exchange/" target="_blank">AIE</a> to help build interfaces and work on the phone app for an experimental retail space, <a href="https://labs.thedrum.com/cornershop" target="_blank">Cornershop</a>
@@ -125,7 +125,7 @@
               Set up and currently manage many of our internal tools including GitHub (teams, actions, and packages), Firebase, and Netlify
             </li>
             <li>
-              Led the migration of content from <a href="https://www.adaptivelab.com/" target="_blank">adaptivelab.com</a> to <a href="https://www.idean.com/" target="_blank">idean.com</a>, and am currently aiding in the migration from idean.com to <a href="https://www.frogdesign.com/" target="_blank">frogdesign.com</a>
+              Led the migration of content from daptivelab.com to idean.com, and aided in the migration from idean.com to <a href="https://www.frog.co/" target="_blank">frog.co</a>
             </li>
             <li>
               Helping organise and run public events at our offices, as well as our fortnightly internal tech catchups
