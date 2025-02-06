@@ -4,6 +4,9 @@
   "description": "my website",
   "author": "Siddharth Vadgama <me@siddv.net>",
   "private": true,
+  "engines": {
+    "node": "14.21.3"
+  },
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",

@@ -12,3 +12,6 @@ dist
 
 # Functions dist
 functions/dist
+
+# local
+.vscode
