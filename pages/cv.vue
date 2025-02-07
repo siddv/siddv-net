@@ -101,7 +101,7 @@
 
         <article class="box">
           <h4>frog<br />
-            <span>Technology Director | January 2024 - Present</span><br />
+            <span>Technology Director | January 2025 - Present</span><br />
             <span>Lead Technologist | January 2021 - December 2024</span><br />
             <span>Senior Frontend Developer | November 2018 - December 2020 (as Idean UK)</span>
           </h4>
