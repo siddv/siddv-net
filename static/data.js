@@ -1,11 +1,28 @@
 module.exports = {
   projects: [
     {
+      title: 'QSR Kiosk',
+      img: require('~/assets/images/portfolio/kiosk@2x.jpg'),
+      description: `Architected & led a project running a team of 12 engineers across four organisations to deliver a point of sale kiosk in a physical retail space. Greenfield software build that focused on creating a brand new user-centred kiosk experience for a QSR (quick-service restaurant). Work involved developing the whole thing from scratch, as well as creating reusable & configurable code that interface with the scanner, printer, and payment terminal.`,
+      cta: {
+        disabled: true
+      }
+    },
+    {
       title: 'Cards for Humanity',
       img: require('~/assets/images/portfolio/cfh@2x.jpg'),
       description: `I'm the tech lead for <a href="https://cardsforhumanity.frog.co/" target="_blank">Cards for Humanity</a>, an empathy tool that helps product folk, designers, and developers create more inclusively. It allows players to discover combinations of persona and trait cards. The goal is then for those players try and understand how their product/service might work for that person. We've been featured on <a href="https://www.figma.com/blog/behind-the-plugin-cards-for-humanity/" target="_blank">Figma</a>, and have won awards from <a href="https://www.idean.com/spotlight/cards-for-humanity-triumphs-at-the-drum-design-awards" target="_blank">The Drum</a>, and <a href="https://designawards.core77.com/Interaction/106530/Cards-for-Humanity" target="_blank">core77</a>.`,
       cta: {
         link: 'https://cardsforhumanity.frog.co/',
+        external: true
+      }
+    },
+    {
+      title: 'The Universal Score',
+      img: require('~/assets/images/portfolio/tus@2x.jpg'),
+      description: `Adding to the suite of inclusivity tools we have at frog, three of us built The Universal Score initially as a workshop tool over a couple of days. It later evolved into a full evaluation framework for product teams to quantify how inclusive the products/services they are creating are. Similar to Cards for Humanity, I'm the tech lead for this, but a number of fantastic people have been working on it over the course its life as can be seen in the <a href="https://www.universalscore.global/humans.txt" target="_blank">humans.txt</a>.`,
+      cta: {
+        link: 'https://www.universalscore.global/',
         external: true
       }
     },
@@ -84,14 +101,14 @@ module.exports = {
         link: '/projects/termisoc'
       }
     },
-    {
-      title: 'The Only Way is Freshers',
-      img: require('~/assets/images/portfolio/towif@2x.jpg'),
-      description: `Branding and promotional media work I did for a student event. The event was a several-hundred person student night hosted by a cast member of the depressingly popular TV show, The Only Way is Essex.`,
-      cta: {
-        link: '/projects/the-only-way-is-freshers'
-      }
-    },
+    // {
+    //   title: 'The Only Way is Freshers',
+    //   img: require('~/assets/images/portfolio/towif@2x.jpg'),
+    //   description: `Branding and promotional media work I did for a student event. The event was a several-hundred person student night hosted by a cast member of the depressingly popular TV show, The Only Way is Essex.`,
+    //   cta: {
+    //     link: '/projects/the-only-way-is-freshers'
+    //   }
+    // },
   ],
   social: [
     {

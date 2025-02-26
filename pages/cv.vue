@@ -18,7 +18,7 @@
             </div>
           </div>
           <p>
-            I'm Sidd, a technologist focused on creating both digital and physical MVPs. Being versatile enough to
+            I'm Sidd, a product-minded technologist focused on creating both digital and physical MVPs. Being versatile enough to
             bring all elements together to create fun, effective, and useful products for people.
           </p>
         </div>
@@ -128,6 +128,9 @@
             </li>
             <li>
               Set up and currently manage many of our internal tools including GitHub, Firebase, and Netlify.
+            </li>
+            <li>
+              Co-defined our recruitment process, technical evaluation. I also lead on interviews.
             </li>
             <li>
               Led the migration of content from adaptivelab.com to idean.com, and aided in the migration from idean.com
