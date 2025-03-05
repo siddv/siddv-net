@@ -5,10 +5,6 @@
 
       <header class="columns">
 
-        <div class="column is-3">
-          <img class="my-picture" src="~/assets/images/sidd.jpg" />
-        </div>
-
         <div class="column">
           <div class="columns">
             <h1 class="title is-4 column name">Siddharth Vadgama<br /><span>I Make Things</span></h1>
