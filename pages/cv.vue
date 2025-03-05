@@ -106,9 +106,10 @@
             <span>Senior Frontend Developer | November 2018 - December 2020 (as Idean UK)</span>
           </h4>
           <p>
-            At frog I balance my client work with strategic work that helps define what technology at frog UK looks
+            At frog I balance client work with strategic work that helps define what technology at frog UK looks
             like. I regularly work with areas of the business to define the scope of inbound work, and outbound
-            responses to RFPs.
+            responses to RFPs. Along with this I'm a champion for people experience. I endavour to do what I can
+            to make frog a fun, interesting, and valuable place for people to be.
           </p>
           <h5>Achievements</h5>
           <ul>
