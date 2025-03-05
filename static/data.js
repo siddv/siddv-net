@@ -3,7 +3,7 @@ module.exports = {
     {
       title: 'QSR Kiosk',
       img: require('~/assets/images/portfolio/kiosk@2x.jpg'),
-      description: `Architected & led a project running a team of 12 engineers across four organisations to deliver a point of sale kiosk in a physical retail space. Greenfield software build that focused on creating a brand new user-centred kiosk experience for a QSR (quick-service restaurant). Work involved developing the whole thing from scratch, as well as creating reusable & configurable code that interface with the scanner, printer, and payment terminal.`,
+      description: `Led a greenfield initiative for a major QSR, overseeing 12 engineers across four organizations to deliver a user-focused point-of-sale kiosk in physical retail. We built it from scratch, ensuring seamless integration with scanners, printers, and payment terminals. Through careful stakeholder collaboration and robust, configurable code, we delivered a high-value solution.`,
       cta: {
         disabled: true
       }
