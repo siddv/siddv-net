@@ -18,8 +18,8 @@
             </div>
           </div>
           <p>
-            I'm Sidd, a product-minded technologist focused on creating both digital and physical MVPs. Being versatile enough to
-            bring all elements together to create fun, effective, and useful products for people.
+            I'm Sidd, a product-minded technologist. I lead fast-paced projects creating both digital and physical MVPs. 
+            Being versatile enough to bring all elements together to create fun, effective, and useful products for people.
           </p>
         </div>
 
@@ -36,6 +36,10 @@
           I lead teams with empathy, ensuring people have the support and autonomy to do their best work. I step in
           where I'm needed - whether that's writing code, refining product direction, or helping teams navigate complex
           challenges - but I also know when to step back and let others take ownership.
+        </p>
+        <p>
+          When building products, I ensure to take a more holistic product & user-centric mindset - focusing on what value
+          we can deliver that would result in the best outcomes and have the most postitive impact.
         </p>
         <p>
           I'm always learning, evolving my approach, and experimenting with new ideas. You can find some of my side
