@@ -3,7 +3,7 @@ module.exports = {
     {
       title: 'QSR Kiosk',
       img: require('~/assets/images/portfolio/kiosk@2x.jpg'),
-      description: `Led a greenfield build for a major QSR, overseeing 12 engineers across four organizations to deliver a user-centric self-service kiosk in physical retail. We built it from scratch, ensuring seamless integration with scanners, printers, and payment terminals.`,
+      description: `Led a greenfield build for a major QSR, overseeing 12 engineers across four organizations to deliver a user-centric self-service kiosk in a physical retail space. Built from scratch with integrations for scanners, printers, and payment terminals, it ensures scalability and flexible configurations for differing hardware setups across locations.`,
       cta: {
         disabled: true
       }
