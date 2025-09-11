@@ -1,14 +1,6 @@
 module.exports = {
   projects: [
     {
-      title: 'QSR Kiosk',
-      img: require('~/assets/images/portfolio/kiosk@2x.jpg'),
-      description: `Led a greenfield build for a major QSR, overseeing 12 engineers across four organizations to deliver a user-centric self-service kiosk in a physical retail space. Built from scratch with integrations for scanners, printers, and payment terminals, it ensures scalability and flexible configurations for differing hardware setups across locations.`,
-      cta: {
-        disabled: true
-      }
-    },
-    {
       title: 'Cards for Humanity',
       img: require('~/assets/images/portfolio/cfh@2x.jpg'),
       description: `I'm the tech lead for <a href="https://cardsforhumanity.frog.co/" target="_blank">Cards for Humanity</a>, an empathy tool that helps product folk, designers, and developers create more inclusively. It allows players to discover combinations of persona and trait cards. The goal is then for those players try and understand how their product/service might work for that person. We've been featured on <a href="https://www.figma.com/blog/behind-the-plugin-cards-for-humanity/" target="_blank">Figma</a>, and have won awards from <a href="https://www.idean.com/spotlight/cards-for-humanity-triumphs-at-the-drum-design-awards" target="_blank">The Drum</a>, and <a href="https://designawards.core77.com/Interaction/106530/Cards-for-Humanity" target="_blank">core77</a>.`,
@@ -24,6 +16,14 @@ module.exports = {
       cta: {
         link: 'https://www.universalscore.global/',
         external: true
+      }
+    },
+    {
+      title: 'QSR Kiosk',
+      img: require('~/assets/images/portfolio/kiosk@2x.jpg'),
+      description: `Led a greenfield build for a major QSR, overseeing 12 engineers across four organizations to deliver a user-centric self-service kiosk in a physical retail space. Built from scratch with integrations for scanners, printers, and payment terminals, it ensures scalability and flexible configurations for differing hardware setups across locations.`,
+      cta: {
+        disabled: true
       }
     },
     {
