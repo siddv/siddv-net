@@ -11,10 +11,10 @@
         <blockquote class="container has-text-centered blockquote sv__hero-blurb">
           <h2 class="title is-4">Who I am</h2>
           <p>
-            I'm Sidd, a product-minded technologist. I lead fast-paced projects creating both digital and physical MVPs. Being versatile enough to bring all elements together to create fun, effective, and useful products for people.
+            I'm Sidd, a creative technologist. I lead fast-paced projects creating both digital and physical MVPs. Being versatile enough to bring all elements together to create fun, effective, and useful products for people.
           </p>
           <p>
-            Currently, I'm based in London working as a Technology Director at <a class="sv__light-link" href="https://www.frog.co/" target="_blank" rel="noopener">frog</a>. Previously at <a class="sv__light-link" href="http://www.tribalworldwide.co.uk/" target="_blank"  rel="noopener">Tribal&nbsp;Worldwide</a>, and <a class="sv__light-link" href="http://www.ba.com/" target="_blank">British&nbsp;Airways</a>.
+            Currently, I'm based in Bristol working as a Technology Director at <a class="sv__light-link" href="https://www.frog.co/" target="_blank" rel="noopener">frog</a>. Previously at <a class="sv__light-link" href="http://www.tribalworldwide.co.uk/" target="_blank"  rel="noopener">Tribal&nbsp;Worldwide</a>, and <a class="sv__light-link" href="http://www.ba.com/" target="_blank">British&nbsp;Airways</a>.
           </p>
         </blockquote>
       </div>
