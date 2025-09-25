@@ -19,6 +19,14 @@ module.exports = {
       }
     },
     {
+      title: 'The Blade',
+      img: require('~/assets/images/portfolio/blade@2x.jpg'),
+      description: `This was a chiptune keytar built by <a href="http://www.thereminhero.com/" target="_blank">Greig Stewart</a>, <a href="http://wray.pro/" target="_blank">Sam Wray</a>, and myself at <a href="http://buzz-jam.com/" target="_blank">BuzzJam</a>. It comprised of hacked Guitar Hero guitars, a Rock Band keytar, two Game Boys, an Arduino Mega, and a Raspberry Pi, and a Leap Motion. The Blade was featured on the <a href="http://www.bbc.co.uk/newsbeat/article/34310120/six-emerging-music-acts-spend-two-days-making-six-new-instruments" target="_blank">BBC</a> and <a href="http://noisey.vice.com/en_uk/blog/buzz-jam-lets-artists-invent-their-own-musical-instrument" target="_blank">Vice</a>.`,
+      cta: {
+        link: '/projects/blade'
+      }
+    },
+    {
       title: 'QSR Kiosk',
       img: require('~/assets/images/portfolio/kiosk@2x.jpg'),
       description: `Led a greenfield build for a major QSR, overseeing 12 engineers across four organizations to deliver a user-centric self-service kiosk in a physical retail space. Built from scratch with integrations for scanners, printers, and payment terminals, it ensures scalability and flexible configurations for differing hardware setups across locations.`,
@@ -33,14 +41,6 @@ module.exports = {
       cta: {
         link: 'https://www.viaoutlets.com/portfolio/#main',
         external: true
-      }
-    },
-    {
-      title: 'The Blade',
-      img: require('~/assets/images/portfolio/blade@2x.jpg'),
-      description: `This was a chiptune keytar built by <a href="http://www.thereminhero.com/" target="_blank">Greig Stewart</a>, <a href="http://wray.pro/" target="_blank">Sam Wray</a>, and myself at <a href="http://buzz-jam.com/" target="_blank">BuzzJam</a>. It comprised of hacked Guitar Hero guitars, a Rock Band keytar, two Game Boys, an Arduino Mega, and a Raspberry Pi, and a Leap Motion. The Blade was featured on the <a href="http://www.bbc.co.uk/newsbeat/article/34310120/six-emerging-music-acts-spend-two-days-making-six-new-instruments" target="_blank">BBC</a> and <a href="http://noisey.vice.com/en_uk/blog/buzz-jam-lets-artists-invent-their-own-musical-instrument" target="_blank">Vice</a>.`,
-      cta: {
-        link: '/projects/blade'
       }
     },
     {
@@ -93,14 +93,14 @@ module.exports = {
         disabled: true
       }
     },
-    {
-      title: 'TermiSoc',
-      img: require('~/assets/images/portfolio/termisoc@2x.jpg'),
-      description: `<a href="http://termisoc.org" target="_blank">TermiSoc</a> is Plymouth University's computing society, of which I was chairman of for two-and-a-half years from 2011 to 2014. Together we ran weekly events, and more infrequent larger events, such as 50+ person LAN parties. I also was in charge of creating all branding, promotional material and other media for the society.`,
-      cta: {
-        link: '/projects/termisoc'
-      }
-    },
+    // {
+    //   title: 'TermiSoc',
+    //   img: require('~/assets/images/portfolio/termisoc@2x.jpg'),
+    //   description: `<a href="http://termisoc.org" target="_blank">TermiSoc</a> is Plymouth University's computing society, of which I was chairman of for two-and-a-half years from 2011 to 2014. Together we ran weekly events, and more infrequent larger events, such as 50+ person LAN parties. I also was in charge of creating all branding, promotional material and other media for the society.`,
+    //   cta: {
+    //     link: '/projects/termisoc'
+    //   }
+    // },
     // {
     //   title: 'The Only Way is Freshers',
     //   img: require('~/assets/images/portfolio/towif@2x.jpg'),
@@ -116,11 +116,11 @@ module.exports = {
       image: require('~/assets/images/social/social-1_square-github.svg'),
       alt: 'Github'
     },
-    {
-      href: 'https://twitter.com/siddvee',
-      image: require('~/assets/images/social/social-1_square-twitter.svg'),
-      alt: 'Twitter'
-    },
+    // {
+    //  href: 'https://twitter.com/siddvee',
+    //  image: require('~/assets/images/social/social-1_square-twitter.svg'),
+    //  alt: 'Twitter'
+    // },
     {
       href: 'https://uk.linkedin.com/in/siddv',
       image: require('~/assets/images/social/social-1_square-linkedin.svg'),
