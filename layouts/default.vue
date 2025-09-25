@@ -6,7 +6,7 @@
           <a
             href="/"
             class="navbar-item">
-            Siddv.net
+            siddv.net
           </a>
         </div>
         <div class="navbar-brand">
