@@ -15,3 +15,13 @@
   to = "https://www.siddv.net/:splat"
   status = 301
   force = true
+[[redirects]]
+  from = "https://pizza.siddv.net/"
+  to = "https://siddv.notion.site/Pizza-Reheating-06ba14edf95e43f4bdf60923a5fc8181"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://recipes.siddv.net/"
+  to = "https://siddv.notion.site/bd9fa2c17a9c46fa819e5e67de76b874?v=dd0818b2b3f74d0fac964b99c7464fec"
+  status = 301
+  force = true
