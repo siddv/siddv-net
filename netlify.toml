@@ -22,6 +22,6 @@
   force = true
 [[redirects]]
   from = "https://recipes.siddv.net/"
-  to = "https://siddv.notion.site/bd9fa2c17a9c46fa819e5e67de76b874?v=dd0818b2b3f74d0fac964b99c7464fec"
+  to = "https://siddv.notion.site/bd9fa2c17a9c46fa819e5e67de76b874"
   status = 301
   force = true
