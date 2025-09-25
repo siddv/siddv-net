@@ -1,2 +1,17 @@
 [build]
   functions = "./functions/dist"
+[[redirects]]
+  from = "https://siddv.com/*"
+  to = "https://www.siddv.net/:splat"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://www.siddv.com/*"
+  to = "https://www.siddv.net/:splat"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://siddv.netlify.app/*"
+  to = "https://www.siddv.net/:splat"
+  status = 301
+  force = true
